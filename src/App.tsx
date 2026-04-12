@@ -15,8 +15,11 @@ export default function App() {
           <Outlet />
         </main>
         <footer className="footer">
-          Data comes from past form exports; numeric scales differ slightly between
-          sources (see legends on each course page).
+          <p className="footer-note">
+            Data comes from past form exports; numeric scales differ slightly between
+            sources (see legends on each course page).
+          </p>
+          <p className="footer-credit">made by Jyotishman Saikia</p>
         </footer>
       </div>
     </ReviewsProvider>
