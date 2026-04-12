@@ -1,0 +1,4049 @@
+{
+  "generatedAt": "2026-04-12T12:42:12.591926+00:00",
+  "droppedOrSkippedRowsApprox": 97,
+  "numericLegend": {
+    "content_rating": "Course content (1–5, higher is better where applicable)",
+    "workload": "Workload (1 very tough, 5 easy) — BSW scale",
+    "grading": "Grading leniency (1–5) — BSW only",
+    "attendance_lenient": "Attendance (1 very strict, 5 very lenient) — BSW only",
+    "overall_experience": "Overall experience (1–5) — BSW only",
+    "evaluations_hardness": "Evaluation hardness (1–5) — HSS only"
+  },
+  "courses": [
+    {
+      "code": "HUL212",
+      "title": "MICROECONOMICS",
+      "credits": 4,
+      "slot": "M",
+      "currentInstructor": "SISIR DEBNATH",
+      "reviewCount": 37,
+      "overall": {
+        "n": 37,
+        "averages": {
+          "content_rating": 4.75,
+          "workload": 3.41,
+          "grading": 4.69,
+          "attendance_lenient": 4.0,
+          "overall_experience": 4.62,
+          "evaluations_hardness": 3.19
+        },
+        "snippet": "Content (rating): 5.0/5 Workload: 3.0/5 Grading: 5.0/5 Attendance leniency: 3.0/5 Overall: 4.0/5 Surprise Quizzes in Class, All papers MCQ based, Fun Game Acttivities"
+      },
+      "byProfessor": [
+        {
+          "professorKey": "rohit kumar",
+          "professor": "Rohit Kumar",
+          "n": 16,
+          "averages": {
+            "content_rating": 4.5,
+            "workload": 3.44,
+            "grading": 4.0,
+            "attendance_lenient": 5.0,
+            "overall_experience": 3.0,
+            "evaluations_hardness": 3.5
+          },
+          "snippet": "Content (rating): 4.0/5 Workload: 3.0/5 Grading: 5.0/5 Attendance leniency: 5.0/5 Overall: 4.0/5 The content is a bit too much, but exams are easy."
+        },
+        {
+          "professorKey": "abhijeet banerjee",
+          "professor": "Abhijeet Banerjee",
+          "n": 6,
+          "averages": {
+            "content_rating": 4.8,
+            "workload": 4.17,
+            "grading": 4.8,
+            "attendance_lenient": 5.0,
+            "overall_experience": 5.0,
+            "evaluations_hardness": 1.0
+          },
+          "snippet": "Content (rating): 5.0/5 Workload: 5.0/5 Grading: 5.0/5 Attendance leniency: 5.0/5 Overall: 5.0/5 Chill prof, easy tests"
+        },
+        {
+          "professorKey": "sisir debnath",
+          "professor": "Sisir Debnath",
+          "n": 6,
+          "averages": {
+            "content_rating": 4.83,
+            "workload": 2.67,
+            "grading": 4.67,
+            "attendance_lenient": 3.0,
+            "overall_experience": 4.67
+          },
+          "snippet": "Content (rating): 5.0/5 Workload: 3.0/5 Grading: 5.0/5 Attendance leniency: 3.0/5 Overall: 4.0/5 Surprise Quizzes in Class, All papers MCQ based, Fun Game Acttivities"
+        },
+        {
+          "professorKey": "abhijit banerjee",
+          "professor": "Abhijit Banerjee",
+          "n": 2,
+          "averages": {
+            "workload": 2.0,
+            "evaluations_hardness": 1.5
+          },
+          "snippet": "Workload: 1.0/5 Eval hardness: 2.0/5 2023-24 Subjective Minors and Majors Easy to understand Exam relevant content is shared Easy Nehli/Dassi No attendance 0.6 A very enjoyable, informative and light course P.S. no cramming required:)"
+        },
+        {
+          "professorKey": "saptarshi mukherjee",
+          "professor": "Saptarshi Mukherjee",
+          "n": 2,
+          "averages": {
+            "workload": 3.5,
+            "evaluations_hardness": 4.0
+          },
+          "snippet": "Workload: 4.0/5 Eval hardness: 5.0/5 2022-23 Subjective Minors and Majors Medium Exam relevant content is not shared, but general content is shared Hard Nehli/Dassi No attendance No Policy is Enforced Don’t take any course under him."
+        },
+        {
+          "professorKey": "abhijeet banarjee",
+          "professor": "Abhijeet banarjee",
+          "n": 1,
+          "averages": {
+            "content_rating": 4.0,
+            "workload": 4.0,
+            "grading": 5.0,
+            "attendance_lenient": 5.0,
+            "overall_experience": 5.0
+          },
+          "snippet": "Content (rating): 4.0/5 Workload: 4.0/5 Grading: 5.0/5 Attendance leniency: 5.0/5 Overall: 5.0/5 Good person good course"
+        },
+        {
+          "professorKey": "debasis mondal",
+          "professor": "Debasis Mondal",
+          "n": 1,
+          "averages": {
+            "content_rating": 5.0,
+            "workload": 5.0,
+            "grading": 5.0,
+            "attendance_lenient": 1.0,
+            "overall_experience": 5.0
+          },
+          "snippet": "Content (rating): 5.0/5 Workload: 5.0/5 Grading: 5.0/5 Attendance leniency: 1.0/5 Overall: 5.0/5 Timble Era"
+        },
+        {
+          "professorKey": "jayan jose thomas",
+          "professor": "Jayan Jose Thomas",
+          "n": 1,
+          "averages": {
+            "content_rating": 5.0,
+            "workload": 4.0,
+            "grading": 5.0,
+            "attendance_lenient": 5.0,
+            "overall_experience": 5.0
+          },
+          "snippet": "Content (rating): 5.0/5 Workload: 4.0/5 Grading: 5.0/5 Attendance leniency: 5.0/5 Overall: 5.0/5 Prof taught very well and was highly passionate to teach, students took interest, doubt clearing was also good, grading was absolute even though average was in low 70s, and exams were easy. Attendance policy was 50%."
+        },
+        {
+          "professorKey": "prof saptarshi mukherjee",
+          "professor": "Prof Saptarshi Mukherjee",
+          "n": 1,
+          "averages": {
+            "workload": 2.0,
+            "evaluations_hardness": 3.0
+          },
+          "snippet": "Workload: 2.0/5 Eval hardness: 3.0/5 2022-23 Subjective Minors and Majors Medium to Slightly Hard, but very doable if regularly attended classes Slides are shared but class notes must be made Easy Nehli/Dassi, Absolute Criteria for Dassi No Policy is Enforced Must take. V nice."
+        },
+        {
+          "professorKey": "rohith kumar",
+          "professor": "Rohith Kumar",
+          "n": 1,
+          "averages": {
+            "workload": 4.0,
+            "evaluations_hardness": 3.0
+          },
+          "snippet": "Workload: 4.0/5 Eval hardness: 3.0/5 2022-23 Term Papers, MCQ Evaluations in Minor/Major, Bonus marks provided in lectures Medium Exam relevant content is shared A bit more than normal effort is required to get nehli/dassi No Policy is Enforced A course to take if you are interested in the mathematical aspects of economics.The papers are mcq based so no rote learning is required."
+        }
+      ],
+      "reviews": [
+        {
+          "source": "bsw",
+          "courseCode": "HUL212",
+          "professor": "Abhijeet banarjee",
+          "professorKey": "abhijeet banarjee",
+          "timestamp": null,
+          "labels": {
+            "content_rating": 4.0,
+            "workload": 4.0,
+            "grading": 5.0,
+            "attendance_lenient": 5.0,
+            "overall_experience": 5.0
+          },
+          "textBlocks": [
+            {
+              "label": "Comments",
+              "value": "Good person good course"
+            }
+          ]
+        },
+        {
+          "source": "bsw",
+          "courseCode": "HUL212",
+          "professor": "Abhijeet Banerjee",
+          "professorKey": "abhijeet banerjee",
+          "timestamp": "2025-04-22T00:37:12.966000+00:00",
+          "labels": {
+            "content_rating": 5.0,
+            "workload": 5.0,
+            "grading": 5.0,
+            "attendance_lenient": 5.0,
+            "overall_experience": 5.0
+          },
+          "textBlocks": [
+            {
+              "label": "Comments",
+              "value": "Nice course"
+            }
+          ]
+        },
+        {
+          "source": "bsw",
+          "courseCode": "HUL212",
+          "professor": "Abhijeet Banerjee",
+          "professorKey": "abhijeet banerjee",
+          "timestamp": "2025-04-21T23:39:51.452000+00:00",
+          "labels": {
+            "content_rating": 4.0,
+            "workload": 4.0,
+            "grading": 5.0,
+            "attendance_lenient": 5.0,
+            "overall_experience": 5.0
+          },
+          "textBlocks": [
+            {
+              "label": "Comments",
+              "value": "Surprise quizzes in class, very chill prof easy 9/10"
+            }
+          ]
+        },
+        {
+          "source": "bsw",
+          "courseCode": "HUL212",
+          "professor": "Abhijeet Banerjee",
+          "professorKey": "abhijeet banerjee",
+          "timestamp": "2025-04-22T00:40:30.259000+00:00",
+          "labels": {
+            "content_rating": 5.0,
+            "workload": 5.0,
+            "grading": 5.0,
+            "attendance_lenient": 5.0,
+            "overall_experience": 5.0
+          },
+          "textBlocks": [
+            {
+              "label": "Comments",
+              "value": "Take any course under this prof, his slides are very well written, course content is just right, easy to study, lectures are easy to understand and intuitive. Prof is literally a \"chill guy\". Easy quizzes and exams, straight from the course content (well explained in slides). Microeconomics as a course is very simple, involves basic math, and interesting concepts. MUST DO.\nTip: He'll most likely take the Game Theory HUL in the coming even (confirm this) sem.\nCheers!"
+            }
+          ]
+        },
+        {
+          "source": "bsw",
+          "courseCode": "HUL212",
+          "professor": "Abhijeet Banerjee",
+          "professorKey": "abhijeet banerjee",
+          "timestamp": "2025-04-22T14:06:48.211000+00:00",
+          "labels": {
+            "content_rating": 5.0,
+            "workload": 5.0,
+            "grading": 5.0,
+            "attendance_lenient": 5.0,
+            "overall_experience": 5.0
+          },
+          "textBlocks": [
+            {
+              "label": "Comments",
+              "value": "Chill prof, easy tests"
+            }
+          ]
+        },
+        {
+          "source": "bsw",
+          "courseCode": "HUL212",
+          "professor": "Abhijeet Banerjee",
+          "professorKey": "abhijeet banerjee",
+          "timestamp": "2025-04-22T14:04:15.325000+00:00",
+          "labels": {
+            "content_rating": 5.0,
+            "workload": 5.0,
+            "grading": 4.0,
+            "attendance_lenient": 5.0,
+            "overall_experience": 5.0
+          },
+          "textBlocks": [
+            {
+              "label": "Comments",
+              "value": "Open book exams, no attendance policy (just surprise quizzes which are also pretty easy), and really good grading"
+            }
+          ]
+        },
+        {
+          "source": "bsw",
+          "courseCode": "HUL212",
+          "professor": "Debasis Mondal",
+          "professorKey": "debasis mondal",
+          "timestamp": "2025-04-22T03:33:10.919000+00:00",
+          "labels": {
+            "content_rating": 5.0,
+            "workload": 5.0,
+            "grading": 5.0,
+            "attendance_lenient": 1.0,
+            "overall_experience": 5.0
+          },
+          "textBlocks": [
+            {
+              "label": "Comments",
+              "value": "Timble Era"
+            }
+          ]
+        },
+        {
+          "source": "bsw",
+          "courseCode": "HUL212",
+          "professor": "Jayan Jose Thomas",
+          "professorKey": "jayan jose thomas",
+          "timestamp": "2025-04-22T00:22:45.308000+00:00",
+          "labels": {
+            "content_rating": 5.0,
+            "workload": 4.0,
+            "grading": 5.0,
+            "attendance_lenient": 5.0,
+            "overall_experience": 5.0
+          },
+          "textBlocks": [
+            {
+              "label": "Comments",
+              "value": "Prof taught very well and was highly passionate to teach, students took interest, doubt clearing was also good, grading was absolute even though average was in low 70s, and exams were easy. Attendance policy was 50%."
+            }
+          ]
+        },
+        {
+          "source": "bsw",
+          "courseCode": "HUL212",
+          "professor": "Rohit Kumar",
+          "professorKey": "rohit kumar",
+          "timestamp": "2025-04-22T00:24:23.506000+00:00",
+          "labels": {
+            "content_rating": 5.0,
+            "workload": 5.0,
+            "grading": 3.0,
+            "attendance_lenient": 5.0,
+            "overall_experience": 2.0
+          },
+          "textBlocks": [
+            {
+              "label": "Comments",
+              "value": "Content was interesting but prof teaching was very haphazard and mismanaged. in one class, he used to cover 90 slides worth content - he would teach 30 in one hour and rush through the next 60 in the next 30 minutes. moreover exams are very high-stakes - 40-60 division of minor-major. grading was okay but TAs cut marks for baseless reasons"
+            }
+          ]
+        },
+        {
+          "source": "bsw",
+          "courseCode": "HUL212",
+          "professor": "Rohit Kumar",
+          "professorKey": "rohit kumar",
+          "timestamp": "2025-04-22T02:27:48.708000+00:00",
+          "labels": {
+            "content_rating": 4.0,
+            "workload": 3.0,
+            "grading": 5.0,
+            "attendance_lenient": 5.0,
+            "overall_experience": 4.0
+          },
+          "textBlocks": [
+            {
+              "label": "Comments",
+              "value": "The content is a bit too much, but exams are easy."
+            }
+          ]
+        },
+        {
+          "source": "bsw",
+          "courseCode": "HUL212",
+          "professor": "Sisir Debnath",
+          "professorKey": "sisir debnath",
+          "timestamp": "2025-04-21T23:47:00.410000+00:00",
+          "labels": {
+            "content_rating": 4.0,
+            "workload": 2.0,
+            "grading": 4.0,
+            "attendance_lenient": 3.0,
+            "overall_experience": 4.0
+          },
+          "textBlocks": [
+            {
+              "label": "Comments",
+              "value": "Easy Nehli Course"
+            }
+          ]
+        },
+        {
+          "source": "bsw",
+          "courseCode": "HUL212",
+          "professor": "Sisir Debnath",
+          "professorKey": "sisir debnath",
+          "timestamp": "2025-04-21T23:58:01.882000+00:00",
+          "labels": {
+            "content_rating": 5.0,
+            "workload": 3.0,
+            "grading": 5.0,
+            "attendance_lenient": 4.0,
+            "overall_experience": 5.0
+          },
+          "textBlocks": [
+            {
+              "label": "Comments",
+              "value": "Goated Prof"
+            }
+          ]
+        },
+        {
+          "source": "bsw",
+          "courseCode": "HUL212",
+          "professor": "Sisir Debnath",
+          "professorKey": "sisir debnath",
+          "timestamp": "2025-04-22T00:59:11.707000+00:00",
+          "labels": {
+            "content_rating": 5.0,
+            "workload": 4.0,
+            "grading": 5.0,
+            "attendance_lenient": 3.0,
+            "overall_experience": 5.0
+          },
+          "textBlocks": [
+            {
+              "label": "Comments",
+              "value": "Sweetest prof that I have met"
+            }
+          ]
+        },
+        {
+          "source": "bsw",
+          "courseCode": "HUL212",
+          "professor": "Sisir Debnath",
+          "professorKey": "sisir debnath",
+          "timestamp": "2025-04-22T14:40:52.865000+00:00",
+          "labels": {
+            "content_rating": 5.0,
+            "workload": 3.0,
+            "grading": 5.0,
+            "attendance_lenient": 3.0,
+            "overall_experience": 4.0
+          },
+          "textBlocks": [
+            {
+              "label": "Comments",
+              "value": "Surprise Quizzes in Class, All papers MCQ based, Fun Game Acttivities"
+            }
+          ]
+        },
+        {
+          "source": "bsw",
+          "courseCode": "HUL212",
+          "professor": "Sisir Debnath",
+          "professorKey": "sisir debnath",
+          "timestamp": "2025-04-21T23:38:43.703000+00:00",
+          "labels": {
+            "content_rating": 5.0,
+            "workload": 1.0,
+            "grading": 5.0,
+            "attendance_lenient": 3.0,
+            "overall_experience": 5.0
+          },
+          "textBlocks": [
+            {
+              "label": "Comments",
+              "value": "Great course, surprise quizzes but they were low effort"
+            }
+          ]
+        },
+        {
+          "source": "bsw",
+          "courseCode": "HUL212",
+          "professor": "Sisir Debnath",
+          "professorKey": "sisir debnath",
+          "timestamp": "2025-04-21T23:39:27.741000+00:00",
+          "labels": {
+            "content_rating": 5.0,
+            "workload": 3.0,
+            "grading": 4.0,
+            "attendance_lenient": 2.0,
+            "overall_experience": 5.0
+          },
+          "textBlocks": [
+            {
+              "label": "Comments",
+              "value": "Prof has exceptional teaching abilities and course is also very engaging. If you attend classes and listen, you can get easily get nehli and even dassi with some effort."
+            }
+          ]
+        },
+        {
+          "source": "hss",
+          "courseCode": "HUL212",
+          "professor": "Rohit Kumar",
+          "professorKey": "rohit kumar",
+          "timestamp": "2024-04-02T23:47:26.024000+00:00",
+          "labels": {
+            "workload": 4.0,
+            "evaluations_hardness": 3.0
+          },
+          "textBlocks": [
+            {
+              "label": "Offering Session",
+              "value": "2022-23"
+            },
+            {
+              "label": "Evaluations used",
+              "value": "Minor 1 minor 2 were objective, Major was subjective"
+            },
+            {
+              "label": "Course content",
+              "value": "Medium"
+            },
+            {
+              "label": "Content sharing",
+              "value": "Exam relevant content is not shared, but general content is shared"
+            },
+            {
+              "label": "Grading",
+              "value": "Easy Nehli/Dassi"
+            },
+            {
+              "label": "Tutorials",
+              "value": "No compulsory attendance"
+            },
+            {
+              "label": "Attendance policy",
+              "value": "Strict about 75%"
+            },
+            {
+              "label": "Overall",
+              "value": "Prof teaches well, course content is a little heavy but syllabus for which evaluation is already done is not asked again, requires effort, but interesting content"
+            }
+          ]
+        },
+        {
+          "source": "hss",
+          "courseCode": "HUL212",
+          "professor": "Rohith Kumar",
+          "professorKey": "rohith kumar",
+          "timestamp": "2024-04-02T23:50:34.036000+00:00",
+          "labels": {
+            "workload": 4.0,
+            "evaluations_hardness": 3.0
+          },
+          "textBlocks": [
+            {
+              "label": "Offering Session",
+              "value": "2022-23"
+            },
+            {
+              "label": "Evaluations used",
+              "value": "Term Papers, MCQ Evaluations in Minor/Major, Bonus marks provided in lectures"
+            },
+            {
+              "label": "Course content",
+              "value": "Medium"
+            },
+            {
+              "label": "Content sharing",
+              "value": "Exam relevant content is shared"
+            },
+            {
+              "label": "Grading",
+              "value": "A bit more than normal effort is required to get nehli/dassi"
+            },
+            {
+              "label": "Attendance policy",
+              "value": "No Policy is Enforced"
+            },
+            {
+              "label": "Overall",
+              "value": "A course to take if you are interested in the mathematical aspects of economics.The papers are mcq based so no rote learning is required."
+            }
+          ]
+        },
+        {
+          "source": "hss",
+          "courseCode": "HUL212",
+          "professor": "Rohit Kumar",
+          "professorKey": "rohit kumar",
+          "timestamp": "2024-04-02T23:59:30.229000+00:00",
+          "labels": {
+            "workload": 3.0,
+            "evaluations_hardness": 4.0
+          },
+          "textBlocks": [
+            {
+              "label": "Offering Session",
+              "value": "2022-23"
+            },
+            {
+              "label": "Evaluations used",
+              "value": "Term Papers, MCQ Evaluations in Minor/Major, Subjective Minors and Majors"
+            },
+            {
+              "label": "Course content",
+              "value": "Medium"
+            },
+            {
+              "label": "Content sharing",
+              "value": "Exam relevant content is shared"
+            },
+            {
+              "label": "Grading",
+              "value": "Absolute Criteria for Dassi"
+            },
+            {
+              "label": "Attendance policy",
+              "value": "No Policy is Enforced"
+            },
+            {
+              "label": "Overall",
+              "value": "Easy course if you have some mathematical background in optimisation theory and game theory (eg MTL103), otherwise just go to classes and tuts."
+            }
+          ]
+        },
+        {
+          "source": "hss",
+          "courseCode": "HUL212",
+          "professor": "Prof Saptarshi Mukherjee",
+          "professorKey": "prof saptarshi mukherjee",
+          "timestamp": "2024-04-03T00:06:18.096000+00:00",
+          "labels": {
+            "workload": 2.0,
+            "evaluations_hardness": 3.0
+          },
+          "textBlocks": [
+            {
+              "label": "Offering Session",
+              "value": "2022-23"
+            },
+            {
+              "label": "Evaluations used",
+              "value": "Subjective Minors and Majors"
+            },
+            {
+              "label": "Course content",
+              "value": "Medium to Slightly Hard, but very doable if regularly attended classes"
+            },
+            {
+              "label": "Content sharing",
+              "value": "Slides are shared but class notes must be made"
+            },
+            {
+              "label": "Grading",
+              "value": "Easy Nehli/Dassi, Absolute Criteria for Dassi"
+            },
+            {
+              "label": "Attendance policy",
+              "value": "No Policy is Enforced"
+            },
+            {
+              "label": "Overall",
+              "value": "Must take. V nice."
+            }
+          ]
+        },
+        {
+          "source": "hss",
+          "courseCode": "HUL212",
+          "professor": "Rohit Kumar",
+          "professorKey": "rohit kumar",
+          "timestamp": "2024-04-03T00:09:15.977000+00:00",
+          "labels": {
+            "workload": 4.0,
+            "evaluations_hardness": 4.0
+          },
+          "textBlocks": [
+            {
+              "label": "Offering Session",
+              "value": "2023-24"
+            },
+            {
+              "label": "Evaluations used",
+              "value": "MCQ Evaluations in Minor/Major, Class Participation, Subjective Minors and Majors"
+            },
+            {
+              "label": "Course content",
+              "value": "Medium, Hard"
+            },
+            {
+              "label": "Content sharing",
+              "value": "Exam relevant content is not shared, but general content is shared"
+            },
+            {
+              "label": "Grading",
+              "value": "-"
+            },
+            {
+              "label": "Tutorials",
+              "value": "No attendance"
+            },
+            {
+              "label": "Attendance policy",
+              "value": "Strict about 75%"
+            }
+          ]
+        },
+        {
+          "source": "hss",
+          "courseCode": "HUL212",
+          "professor": "Saptarshi Mukherjee",
+          "professorKey": "saptarshi mukherjee",
+          "timestamp": "2024-04-03T00:18:14.410000+00:00",
+          "labels": {
+            "workload": 3.0,
+            "evaluations_hardness": 3.0
+          },
+          "textBlocks": [
+            {
+              "label": "Offering Session",
+              "value": "2022-23"
+            },
+            {
+              "label": "Evaluations used",
+              "value": "Subjective Minors and Majors"
+            },
+            {
+              "label": "Course content",
+              "value": "Medium"
+            },
+            {
+              "label": "Content sharing",
+              "value": "Exam relevant content is not shared, but general content is shared"
+            },
+            {
+              "label": "Grading",
+              "value": "Easy if you attend classes, difficult otherwise"
+            },
+            {
+              "label": "Tutorials",
+              "value": "No attendance"
+            },
+            {
+              "label": "Attendance policy",
+              "value": "No Policy is Enforced"
+            },
+            {
+              "label": "Overall",
+              "value": "The course has no enforced attendance at all, but most of the course content is not available from any other sources than the lectures. Lecture slides with minimal content(not enough to do well in exams) are shared, and a lot of the questions that come in the exam are from topics strictly mentioned in class and not present in the lecture slides. Attending classes and minimal preparation is all you need for an easy 9/10, but it is hard to get more than a 7/8 without attending classes religiously (Don't pick this course if you don't plan to attend classes, irrespective of the attendance policy)\nGrading for the course is moderate to good grading, and the course content involves minimal mathematics, is easy to grasp, and interesting."
+            }
+          ]
+        },
+        {
+          "source": "hss",
+          "courseCode": "HUL212",
+          "professor": "Rohit Kumar",
+          "professorKey": "rohit kumar",
+          "timestamp": "2024-04-03T00:18:43.526000+00:00",
+          "labels": {
+            "workload": 2.0,
+            "evaluations_hardness": 2.0
+          },
+          "textBlocks": [
+            {
+              "label": "Offering Session",
+              "value": "2023-24"
+            },
+            {
+              "label": "Evaluations used",
+              "value": "Term Papers, MCQ Evaluations in Minor/Major, Subjective Minors and Majors, MCQ minor, Subjective Major"
+            },
+            {
+              "label": "Course content",
+              "value": "Medium, Hard"
+            },
+            {
+              "label": "Content sharing",
+              "value": "Exam relevant content is not shared, but general content is shared"
+            },
+            {
+              "label": "Grading",
+              "value": "Absolute Criteria for Dassi"
+            }
+          ]
+        },
+        {
+          "source": "hss",
+          "courseCode": "HUL212",
+          "professor": "Rohit Kumar",
+          "professorKey": "rohit kumar",
+          "timestamp": "2024-04-03T00:19:52.381000+00:00",
+          "labels": {
+            "workload": 4.0,
+            "evaluations_hardness": 5.0
+          },
+          "textBlocks": [
+            {
+              "label": "Offering Session",
+              "value": "2023-24"
+            },
+            {
+              "label": "Evaluations used",
+              "value": "MCQ Evaluations in Minor/Major, Class Participation, Subjective Minors and Majors, MCQ minor and Subjective Major"
+            },
+            {
+              "label": "Course content",
+              "value": "Medium"
+            },
+            {
+              "label": "Content sharing",
+              "value": "Exam relevant content is shared"
+            },
+            {
+              "label": "Grading",
+              "value": "Hard Nehli/Dassi, Absolute Criteria for Dassi"
+            },
+            {
+              "label": "Tutorials",
+              "value": "No attendance"
+            },
+            {
+              "label": "Attendance policy",
+              "value": "Strict about 75%"
+            }
+          ]
+        },
+        {
+          "source": "hss",
+          "courseCode": "HUL212",
+          "professor": "Rohit Kumar",
+          "professorKey": "rohit kumar",
+          "timestamp": "2024-04-03T00:38:56.455000+00:00",
+          "labels": {
+            "workload": 4.0,
+            "evaluations_hardness": 4.0
+          },
+          "textBlocks": [
+            {
+              "label": "Offering Session",
+              "value": "2023-24"
+            },
+            {
+              "label": "Evaluations used",
+              "value": "Subjective Minors and Majors"
+            },
+            {
+              "label": "Course content",
+              "value": "Hard"
+            },
+            {
+              "label": "Content sharing",
+              "value": "Exam relevant content is shared"
+            },
+            {
+              "label": "Grading",
+              "value": "Hard Nehli/Dassi"
+            },
+            {
+              "label": "Tutorials",
+              "value": "No attendance"
+            },
+            {
+              "label": "Attendance policy",
+              "value": "No Policy is Enforced"
+            }
+          ]
+        },
+        {
+          "source": "hss",
+          "courseCode": "HUL212",
+          "professor": "Rohit Kumar",
+          "professorKey": "rohit kumar",
+          "timestamp": "2024-04-03T00:47:17.350000+00:00",
+          "labels": {
+            "workload": 4.0,
+            "evaluations_hardness": 4.0
+          },
+          "textBlocks": [
+            {
+              "label": "Offering Session",
+              "value": "2023-24"
+            },
+            {
+              "label": "Evaluations used",
+              "value": "MCQ Evaluations in Minor/Major, Class Participation, Subjective Minors and Majors"
+            },
+            {
+              "label": "Course content",
+              "value": "Hard"
+            },
+            {
+              "label": "Content sharing",
+              "value": "Exam relevant content is shared"
+            },
+            {
+              "label": "Grading",
+              "value": "Hard Nehli/Dassi, Absolute Criteria for Dassi"
+            },
+            {
+              "label": "Tutorials",
+              "value": "No attendance"
+            },
+            {
+              "label": "Attendance policy",
+              "value": "No Policy is Enforced"
+            },
+            {
+              "label": "Overall",
+              "value": "If u want to improve CG, take it in some other professors time. If u want to learn in detail and get a very good exposure, take it in his term. Minors are from MCQ Question Bank freely available. Major Subjective."
+            }
+          ]
+        },
+        {
+          "source": "hss",
+          "courseCode": "HUL212",
+          "professor": "Rohit kumar",
+          "professorKey": "rohit kumar",
+          "timestamp": "2024-04-03T01:25:35.591000+00:00",
+          "labels": {
+            "workload": 2.0,
+            "evaluations_hardness": 3.0
+          },
+          "textBlocks": [
+            {
+              "label": "Offering Session",
+              "value": "2023-24"
+            },
+            {
+              "label": "Evaluations used",
+              "value": "MCQ Evaluations in Minor/Major, Subjective Minors and Majors"
+            },
+            {
+              "label": "Course content",
+              "value": "Easy to understand"
+            },
+            {
+              "label": "Content sharing",
+              "value": "Exam relevant content is shared"
+            },
+            {
+              "label": "Grading",
+              "value": "Hard Nehli/Dassi, Absolute Criteria for Dassi"
+            },
+            {
+              "label": "Tutorials",
+              "value": "No attendance"
+            },
+            {
+              "label": "Attendance policy",
+              "value": "Strict about 75%"
+            }
+          ]
+        },
+        {
+          "source": "hss",
+          "courseCode": "HUL212",
+          "professor": "Saptarshi Mukherjee",
+          "professorKey": "saptarshi mukherjee",
+          "timestamp": "2024-04-03T01:32:57.254000+00:00",
+          "labels": {
+            "workload": 4.0,
+            "evaluations_hardness": 5.0
+          },
+          "textBlocks": [
+            {
+              "label": "Offering Session",
+              "value": "2022-23"
+            },
+            {
+              "label": "Evaluations used",
+              "value": "Subjective Minors and Majors"
+            },
+            {
+              "label": "Course content",
+              "value": "Medium"
+            },
+            {
+              "label": "Content sharing",
+              "value": "Exam relevant content is not shared, but general content is shared"
+            },
+            {
+              "label": "Grading",
+              "value": "Hard Nehli/Dassi"
+            },
+            {
+              "label": "Tutorials",
+              "value": "No attendance"
+            },
+            {
+              "label": "Attendance policy",
+              "value": "No Policy is Enforced"
+            },
+            {
+              "label": "Overall",
+              "value": "Don’t take any course under him."
+            }
+          ]
+        },
+        {
+          "source": "hss",
+          "courseCode": "HUL212",
+          "professor": "Abhijit Banerjee",
+          "professorKey": "abhijit banerjee",
+          "timestamp": "2024-04-03T01:34:59.886000+00:00",
+          "labels": {
+            "workload": 3.0,
+            "evaluations_hardness": 1.0
+          },
+          "textBlocks": [
+            {
+              "label": "Offering Session",
+              "value": "2023-24"
+            },
+            {
+              "label": "Evaluations used",
+              "value": "Subjective Minors and Majors, Minor 40, major 60"
+            },
+            {
+              "label": "Course content",
+              "value": "Easy to understand"
+            },
+            {
+              "label": "Content sharing",
+              "value": "Exam relevant content is shared"
+            },
+            {
+              "label": "Grading",
+              "value": "Easy Nehli/Dassi, very easy exams if u understand the basics plus open book :) . easy 10 at 85. some lads got 100/100"
+            },
+            {
+              "label": "Tutorials",
+              "value": "No attendance"
+            },
+            {
+              "label": "Attendance policy",
+              "value": "No Policy is Enforced, said 60% required but no grade down was done at the end"
+            }
+          ]
+        },
+        {
+          "source": "hss",
+          "courseCode": "HUL212",
+          "professor": "Rohit Kumar",
+          "professorKey": "rohit kumar",
+          "timestamp": "2024-04-03T08:43:22.944000+00:00",
+          "labels": {
+            "workload": 3.0,
+            "evaluations_hardness": 4.0
+          },
+          "textBlocks": [
+            {
+              "label": "Offering Session",
+              "value": "2023-24"
+            },
+            {
+              "label": "Evaluations used",
+              "value": "MCQ Evaluations in Minor/Major, Subjective Minors and Majors"
+            },
+            {
+              "label": "Course content",
+              "value": "Medium"
+            },
+            {
+              "label": "Content sharing",
+              "value": "Exam relevant content is shared"
+            },
+            {
+              "label": "Grading",
+              "value": "Hard Nehli/Dassi"
+            },
+            {
+              "label": "Tutorials",
+              "value": "No attendance"
+            },
+            {
+              "label": "Attendance policy",
+              "value": "Strict about 75%"
+            },
+            {
+              "label": "Overall",
+              "value": "Very nice course if you want to actually learn something and not just complete credits."
+            }
+          ]
+        },
+        {
+          "source": "hss",
+          "courseCode": "HUL212",
+          "professor": "Rohit Kumar",
+          "professorKey": "rohit kumar",
+          "timestamp": "2024-04-03T12:56:15.478000+00:00",
+          "labels": {
+            "workload": 4.0,
+            "evaluations_hardness": 3.0
+          },
+          "textBlocks": [
+            {
+              "label": "Offering Session",
+              "value": "2023-24"
+            },
+            {
+              "label": "Evaluations used",
+              "value": "MCQ Evaluations in Minor/Major"
+            },
+            {
+              "label": "Course content",
+              "value": "Hard"
+            },
+            {
+              "label": "Content sharing",
+              "value": "Exam relevant content is shared"
+            },
+            {
+              "label": "Grading",
+              "value": "Hard Nehli/Dassi"
+            },
+            {
+              "label": "Tutorials",
+              "value": "No attendance"
+            },
+            {
+              "label": "Attendance policy",
+              "value": "Strict about 75%"
+            }
+          ]
+        },
+        {
+          "source": "hss",
+          "courseCode": "HUL212",
+          "professor": "Abhijeet Banerjee",
+          "professorKey": "abhijeet banerjee",
+          "timestamp": "2024-04-03T13:03:35.213000+00:00",
+          "labels": {
+            "workload": 1.0,
+            "evaluations_hardness": 1.0
+          },
+          "textBlocks": [
+            {
+              "label": "Offering Session",
+              "value": "2023-24"
+            },
+            {
+              "label": "Evaluations used",
+              "value": "Subjective Minors and Majors"
+            },
+            {
+              "label": "Course content",
+              "value": "Easy to understand"
+            },
+            {
+              "label": "Content sharing",
+              "value": "Exam relevant content is shared"
+            },
+            {
+              "label": "Grading",
+              "value": "Easy Nehli/Dassi"
+            },
+            {
+              "label": "Tutorials",
+              "value": "No attendance"
+            },
+            {
+              "label": "Attendance policy",
+              "value": "60%+"
+            }
+          ]
+        },
+        {
+          "source": "hss",
+          "courseCode": "HUL212",
+          "professor": "Rohit Kumar",
+          "professorKey": "rohit kumar",
+          "timestamp": "2024-04-03T13:19:55.294000+00:00",
+          "labels": {
+            "workload": 3.0,
+            "evaluations_hardness": 3.0
+          },
+          "textBlocks": [
+            {
+              "label": "Offering Session",
+              "value": "2023-24"
+            },
+            {
+              "label": "Evaluations used",
+              "value": "MCQ Evaluations in Minor/Major, Subjective Minors and Majors"
+            },
+            {
+              "label": "Course content",
+              "value": "Hard"
+            },
+            {
+              "label": "Content sharing",
+              "value": "Exam relevant content is shared"
+            },
+            {
+              "label": "Grading",
+              "value": "Absolute Criteria for Dassi"
+            },
+            {
+              "label": "Tutorials",
+              "value": "No attendance"
+            },
+            {
+              "label": "Attendance policy",
+              "value": "No Policy is Enforced"
+            },
+            {
+              "label": "Overall",
+              "value": "Will like this course if you have liking for mathematics"
+            }
+          ]
+        },
+        {
+          "source": "hss",
+          "courseCode": "HUL212",
+          "professor": "Rohit Kumar",
+          "professorKey": "rohit kumar",
+          "timestamp": "2024-04-03T13:52:21.131000+00:00",
+          "labels": {
+            "workload": 3.0,
+            "evaluations_hardness": 2.0
+          },
+          "textBlocks": [
+            {
+              "label": "Offering Session",
+              "value": "2023-24"
+            },
+            {
+              "label": "Evaluations used",
+              "value": "Term Papers, MCQ Evaluations in Minor/Major, Class Participation"
+            },
+            {
+              "label": "Course content",
+              "value": "Medium, Hard"
+            },
+            {
+              "label": "Content sharing",
+              "value": "Exam relevant content is shared"
+            },
+            {
+              "label": "Grading",
+              "value": "Easy Nehli/Dassi"
+            },
+            {
+              "label": "Tutorials",
+              "value": "No attendance"
+            },
+            {
+              "label": "Attendance policy",
+              "value": "Strict about 75%"
+            }
+          ]
+        },
+        {
+          "source": "hss",
+          "courseCode": "HUL212",
+          "professor": "Rohit Kumar",
+          "professorKey": "rohit kumar",
+          "timestamp": "2024-04-03T15:00:47.706000+00:00",
+          "labels": {
+            "workload": 4.0,
+            "evaluations_hardness": 5.0
+          },
+          "textBlocks": [
+            {
+              "label": "Offering Session",
+              "value": "2023-24"
+            },
+            {
+              "label": "Evaluations used",
+              "value": "MCQ Evaluations in Minor/Major, Class Participation, Subjective Minors and Majors"
+            },
+            {
+              "label": "Course content",
+              "value": "Hard"
+            },
+            {
+              "label": "Content sharing",
+              "value": "Exam relevant content is shared"
+            },
+            {
+              "label": "Grading",
+              "value": "Hard Nehli/Dassi"
+            },
+            {
+              "label": "Tutorials",
+              "value": "No attendance"
+            },
+            {
+              "label": "Attendance policy",
+              "value": "80%+"
+            }
+          ]
+        },
+        {
+          "source": "hss",
+          "courseCode": "HUL212",
+          "professor": "Abhijit Banerjee",
+          "professorKey": "abhijit banerjee",
+          "timestamp": "2024-04-03T15:02:49.912000+00:00",
+          "labels": {
+            "workload": 1.0,
+            "evaluations_hardness": 2.0
+          },
+          "textBlocks": [
+            {
+              "label": "Offering Session",
+              "value": "2023-24"
+            },
+            {
+              "label": "Evaluations used",
+              "value": "Subjective Minors and Majors"
+            },
+            {
+              "label": "Course content",
+              "value": "Easy to understand"
+            },
+            {
+              "label": "Content sharing",
+              "value": "Exam relevant content is shared"
+            },
+            {
+              "label": "Grading",
+              "value": "Easy Nehli/Dassi"
+            },
+            {
+              "label": "Tutorials",
+              "value": "No attendance"
+            },
+            {
+              "label": "Attendance policy",
+              "value": "0.6"
+            },
+            {
+              "label": "Overall",
+              "value": "A very enjoyable, informative and light course\nP.S. no cramming required:)"
+            }
+          ]
+        },
+        {
+          "source": "hss",
+          "courseCode": "HUL212",
+          "professor": "Rohit Kumar",
+          "professorKey": "rohit kumar",
+          "timestamp": "2024-04-04T10:49:09.423000+00:00",
+          "labels": {
+            "workload": 3.0,
+            "evaluations_hardness": 3.0
+          },
+          "textBlocks": [
+            {
+              "label": "Offering Session",
+              "value": "2023-24"
+            },
+            {
+              "label": "Evaluations used",
+              "value": "Term Papers, MCQ Evaluations in Minor/Major, Class Participation, Subjective Minors and Majors"
+            },
+            {
+              "label": "Course content",
+              "value": "Medium"
+            },
+            {
+              "label": "Content sharing",
+              "value": "Exam relevant content is shared"
+            },
+            {
+              "label": "Grading",
+              "value": "Not know till now"
+            },
+            {
+              "label": "Tutorials",
+              "value": "Mandatory Attendance"
+            },
+            {
+              "label": "Attendance policy",
+              "value": "Strict about 75%"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "HUL231",
+      "title": "AN INTRODUCTION TO LITERATURE",
+      "credits": 4,
+      "slot": "A",
+      "currentInstructor": "MILIND WAKANKAR",
+      "reviewCount": 9,
+      "overall": {
+        "n": 9,
+        "averages": {
+          "content_rating": 4.4,
+          "workload": 2.67,
+          "grading": 4.6,
+          "attendance_lenient": 4.0,
+          "overall_experience": 4.8,
+          "evaluations_hardness": 1.75
+        },
+        "snippet": "Content (rating): 5.0/5 Workload: 5.0/5 Grading: 5.0/5 Attendance leniency: 4.0/5 Overall: 5.0/5 Fun course"
+      },
+      "byProfessor": [
+        {
+          "professorKey": "divya dwivedi",
+          "professor": "Divya Dwivedi",
+          "n": 3,
+          "averages": {
+            "content_rating": 5.0,
+            "workload": 3.67,
+            "grading": 5.0,
+            "attendance_lenient": 4.5,
+            "overall_experience": 5.0,
+            "evaluations_hardness": 3.0
+          },
+          "snippet": "Content (rating): 5.0/5 Workload: 5.0/5 Grading: 5.0/5 Attendance leniency: 4.0/5 Overall: 5.0/5 Fun course"
+        },
+        {
+          "professorKey": "milind wakankar",
+          "professor": "Milind wakankar",
+          "n": 2,
+          "averages": {
+            "content_rating": 4.0,
+            "workload": 3.0,
+            "grading": 5.0,
+            "attendance_lenient": 4.0,
+            "overall_experience": 5.0
+          },
+          "snippet": "Content (rating): 3.0/5 Workload: 5.0/5 Grading: 5.0/5 Attendance leniency: 4.0/5 Overall: 5.0/5 Nobody got grade below B (except for 2 students afaik). No quizzes or surprise quiz. Only minor, major and attendance marks. Only drawback is morning classes. No attendance in tut(movies are shown in tut btw). Prof is one of the most chill profs. Only one question was asked in minor and major. Prof asked us to write only 3- 4 lines for the question in 20 minutes. He even told us which question will be asked in the exam…"
+        },
+        {
+          "professorKey": "divya dwivedi arjun ghosh",
+          "professor": "Divya Dwivedi + Arjun Ghosh",
+          "n": 1,
+          "averages": {
+            "workload": 2.0,
+            "evaluations_hardness": 2.0
+          },
+          "snippet": "Workload: 2.0/5 Eval hardness: 2.0/5 2023-24 Scheduled Quizzes, Subjective Minors and Majors, Project Component, for the latter part of the course. Easy to understand Exam relevant content is not shared, but general content is shared Easy Nehli/Dassi Mandatory Attendance Strict about 75% Attendance is mandatory, and important, since a lot of the exam questions come from topics discussed at length in the lectures, and you're expected to present the same reasoning and ideas discussed in class, which are subjective a…"
+        },
+        {
+          "professorKey": "divya dwiwedi",
+          "professor": "Divya dwiwedi",
+          "n": 1,
+          "averages": {
+            "workload": 1.0,
+            "evaluations_hardness": 1.0
+          },
+          "snippet": "Workload: 1.0/5 Eval hardness: 1.0/5 2022-23 Scheduled Quizzes, Term Papers, MCQ Evaluations in Minor/Major, Subjective Minors and Majors Easy to understand Exam relevant content is shared Easy Nehli/Dassi No attendance No Policy is Enforced DEFINITELY DO THIS"
+        },
+        {
+          "professorKey": "nurboo",
+          "professor": "nurboo",
+          "n": 1,
+          "averages": {
+            "workload": 1.0,
+            "evaluations_hardness": 1.0
+          },
+          "snippet": "Workload: 1.0/5 Eval hardness: 1.0/5 2023-24 Scheduled Quizzes, Subjective Minors and Majors Easy to understand Exam relevant content is not shared, but general content is shared i guess we'll find out about grading soon enough No attendance No Policy is Enforced super chill, best hukka, will take again"
+        },
+        {
+          "professorKey": "simona sawhney",
+          "professor": "Simona Sawhney",
+          "n": 1,
+          "averages": {
+            "content_rating": 4.0,
+            "workload": 3.0,
+            "grading": 3.0,
+            "attendance_lenient": 3.0,
+            "overall_experience": 4.0
+          },
+          "snippet": "Content (rating): 4.0/5 Workload: 3.0/5 Grading: 3.0/5 Attendance leniency: 3.0/5 Overall: 4.0/5 Relatively more course components: surprise quiz, class participation has high weightage, act presentation, major minor Taking notes of all discussions in class is important, reading the text and having opinions and inferences after thinking about it is imp, no hw as such other than reading material, if paid attention in class no extra worload / effort required, attendance criteria scrictly followed, teaches well but i…"
+        }
+      ],
+      "reviews": [
+        {
+          "source": "bsw",
+          "courseCode": "HUL231",
+          "professor": "Milind wakankar",
+          "professorKey": "milind wakankar",
+          "timestamp": null,
+          "labels": {
+            "content_rating": 5.0,
+            "workload": 1.0,
+            "grading": 5.0,
+            "attendance_lenient": 4.0,
+            "overall_experience": 5.0
+          },
+          "textBlocks": [
+            {
+              "label": "Comments",
+              "value": "Just go to the classes dedicatedly. No need to study much even for minors and majors"
+            }
+          ]
+        },
+        {
+          "source": "bsw",
+          "courseCode": "HUL231",
+          "professor": "Divya Dwivedi",
+          "professorKey": "divya dwivedi",
+          "timestamp": "2025-04-22T15:11:29.535000+00:00",
+          "labels": {
+            "content_rating": 5.0,
+            "workload": 3.0,
+            "grading": 5.0,
+            "attendance_lenient": 5.0,
+            "overall_experience": 5.0
+          },
+          "textBlocks": [
+            {
+              "label": "Comments",
+              "value": "You'll have to read a lot, take it only if that interests you. Question papers are straightforward with analysis of a character or the short story/ novella itself."
+            }
+          ]
+        },
+        {
+          "source": "bsw",
+          "courseCode": "HUL231",
+          "professor": "Divya Dwivedi",
+          "professorKey": "divya dwivedi",
+          "timestamp": "2025-04-22T17:20:24.220000+00:00",
+          "labels": {
+            "content_rating": 5.0,
+            "workload": 5.0,
+            "grading": 5.0,
+            "attendance_lenient": 4.0,
+            "overall_experience": 5.0
+          },
+          "textBlocks": [
+            {
+              "label": "Comments",
+              "value": "Fun course"
+            }
+          ]
+        },
+        {
+          "source": "bsw",
+          "courseCode": "HUL231",
+          "professor": "Milind Wakankar",
+          "professorKey": "milind wakankar",
+          "timestamp": "2025-04-22T10:21:48.750000+00:00",
+          "labels": {
+            "content_rating": 3.0,
+            "workload": 5.0,
+            "grading": 5.0,
+            "attendance_lenient": 4.0,
+            "overall_experience": 5.0
+          },
+          "textBlocks": [
+            {
+              "label": "Comments",
+              "value": "Nobody got grade below B (except for 2 students afaik). No quizzes or surprise quiz. Only minor, major and attendance marks. Only drawback is morning classes. No attendance in tut(movies are shown in tut btw). Prof is one of the most chill profs. Only one question was asked in minor and major. Prof asked us to write only 3- 4 lines for the question in 20 minutes. He even told us which question will be asked in the exam. Best HUL course."
+            }
+          ]
+        },
+        {
+          "source": "bsw",
+          "courseCode": "HUL231",
+          "professor": "Simona Sawhney",
+          "professorKey": "simona sawhney",
+          "timestamp": "2025-04-22T01:34:31.052000+00:00",
+          "labels": {
+            "content_rating": 4.0,
+            "workload": 3.0,
+            "grading": 3.0,
+            "attendance_lenient": 3.0,
+            "overall_experience": 4.0
+          },
+          "textBlocks": [
+            {
+              "label": "Comments",
+              "value": "Relatively more course components: surprise quiz, class participation has high weightage, act presentation, major minor\nTaking notes of all discussions in class is important, reading the text and having opinions and inferences after thinking about it is imp, no hw as such other than reading material, if paid attention in class no extra worload / effort required, attendance criteria scrictly followed, teaches well but is strict, good experience"
+            }
+          ]
+        },
+        {
+          "source": "hss",
+          "courseCode": "HUL231",
+          "professor": "Divya Dwivedi + Arjun Ghosh",
+          "professorKey": "divya dwivedi arjun ghosh",
+          "timestamp": "2024-04-03T00:24:44.552000+00:00",
+          "labels": {
+            "workload": 2.0,
+            "evaluations_hardness": 2.0
+          },
+          "textBlocks": [
+            {
+              "label": "Offering Session",
+              "value": "2023-24"
+            },
+            {
+              "label": "Evaluations used",
+              "value": "Scheduled Quizzes, Subjective Minors and Majors, Project Component, for the latter part of the course."
+            },
+            {
+              "label": "Course content",
+              "value": "Easy to understand"
+            },
+            {
+              "label": "Content sharing",
+              "value": "Exam relevant content is not shared, but general content is shared"
+            },
+            {
+              "label": "Grading",
+              "value": "Easy Nehli/Dassi"
+            },
+            {
+              "label": "Tutorials",
+              "value": "Mandatory Attendance"
+            },
+            {
+              "label": "Attendance policy",
+              "value": "Strict about 75%"
+            },
+            {
+              "label": "Overall",
+              "value": "Attendance is mandatory, and important, since a lot of the exam questions come from topics discussed at length in the lectures, and you're expected to present the same reasoning and ideas discussed in class, which are subjective and impossible to arrive at if you haven't attended class. The course readings are interesting, and the course will be very easy to manage if you are an avid reader. If you have a good grasp of English and have no issues writing essay-length answers for hours, the exams will be easy too."
+            }
+          ]
+        },
+        {
+          "source": "hss",
+          "courseCode": "HUL231",
+          "professor": "Divya dwivedi",
+          "professorKey": "divya dwivedi",
+          "timestamp": "2024-04-03T00:47:35.184000+00:00",
+          "labels": {
+            "workload": 3.0,
+            "evaluations_hardness": 3.0
+          },
+          "textBlocks": [
+            {
+              "label": "Offering Session",
+              "value": "2023-24"
+            },
+            {
+              "label": "Evaluations used",
+              "value": "Scheduled Quizzes, Term Papers, Subjective Minors and Majors"
+            },
+            {
+              "label": "Course content",
+              "value": "Easy to understand"
+            },
+            {
+              "label": "Content sharing",
+              "value": "Exam relevant content is not shared, but general content is shared"
+            },
+            {
+              "label": "Grading",
+              "value": "Easy 8/9, a bit effort for 10"
+            },
+            {
+              "label": "Tutorials",
+              "value": "No attendance"
+            },
+            {
+              "label": "Attendance policy",
+              "value": "No Policy is Enforced"
+            }
+          ]
+        },
+        {
+          "source": "hss",
+          "courseCode": "HUL231",
+          "professor": "Divya dwiwedi",
+          "professorKey": "divya dwiwedi",
+          "timestamp": "2024-04-03T11:53:35.034000+00:00",
+          "labels": {
+            "workload": 1.0,
+            "evaluations_hardness": 1.0
+          },
+          "textBlocks": [
+            {
+              "label": "Offering Session",
+              "value": "2022-23"
+            },
+            {
+              "label": "Evaluations used",
+              "value": "Scheduled Quizzes, Term Papers, MCQ Evaluations in Minor/Major, Subjective Minors and Majors"
+            },
+            {
+              "label": "Course content",
+              "value": "Easy to understand"
+            },
+            {
+              "label": "Content sharing",
+              "value": "Exam relevant content is shared"
+            },
+            {
+              "label": "Grading",
+              "value": "Easy Nehli/Dassi"
+            },
+            {
+              "label": "Tutorials",
+              "value": "No attendance"
+            },
+            {
+              "label": "Attendance policy",
+              "value": "No Policy is Enforced"
+            },
+            {
+              "label": "Overall",
+              "value": "DEFINITELY DO THIS"
+            }
+          ]
+        },
+        {
+          "source": "hss",
+          "courseCode": "HUL231",
+          "professor": "nurboo",
+          "professorKey": "nurboo",
+          "timestamp": "2024-04-03T14:15:04.287000+00:00",
+          "labels": {
+            "workload": 1.0,
+            "evaluations_hardness": 1.0
+          },
+          "textBlocks": [
+            {
+              "label": "Offering Session",
+              "value": "2023-24"
+            },
+            {
+              "label": "Evaluations used",
+              "value": "Scheduled Quizzes, Subjective Minors and Majors"
+            },
+            {
+              "label": "Course content",
+              "value": "Easy to understand"
+            },
+            {
+              "label": "Content sharing",
+              "value": "Exam relevant content is not shared, but general content is shared"
+            },
+            {
+              "label": "Grading",
+              "value": "i guess we'll find out about grading soon enough"
+            },
+            {
+              "label": "Tutorials",
+              "value": "No attendance"
+            },
+            {
+              "label": "Attendance policy",
+              "value": "No Policy is Enforced"
+            },
+            {
+              "label": "Overall",
+              "value": "super chill, best hukka, will take again"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "HUL239",
+      "title": "INDIAN FICTION IN ENGLISH",
+      "credits": 4,
+      "slot": "A",
+      "currentInstructor": "DICKENS LEONARD M",
+      "reviewCount": 2,
+      "overall": {
+        "n": 2,
+        "averages": {
+          "content_rating": 4.0,
+          "workload": 3.0,
+          "grading": 4.0,
+          "attendance_lenient": 2.0,
+          "overall_experience": 4.0,
+          "evaluations_hardness": 2.0
+        },
+        "snippet": "Content (rating): 4.0/5 Workload: 4.0/5 Grading: 4.0/5 Attendance leniency: 2.0/5 Overall: 4.0/5 Gave us theobroma brownies after the end of the course :) Strict about no late entry to class TAs were nice Requires technicality in answers for a good grade, you can't just write faff or stories and expect marks I liked the course contents as they were quite varied which avoided the mundane"
+      },
+      "byProfessor": [
+        {
+          "professorKey": "dickens leonard",
+          "professor": "Dickens Leonard",
+          "n": 1,
+          "averages": {
+            "workload": 2.0,
+            "evaluations_hardness": 2.0
+          },
+          "snippet": "Workload: 2.0/5 Eval hardness: 2.0/5 2023-24 Surprise Quizzes, MCQ Evaluations in Minor/Major, Tutorial Submissions, Class Participation, Subjective Minors and Majors Medium Exam relevant content is shared Easy Nehli/Dassi Graded Tutorials 80%+ Fun"
+        },
+        {
+          "professorKey": "stuti khanna",
+          "professor": "Stuti Khanna",
+          "n": 1,
+          "averages": {
+            "content_rating": 4.0,
+            "workload": 4.0,
+            "grading": 4.0,
+            "attendance_lenient": 2.0,
+            "overall_experience": 4.0
+          },
+          "snippet": "Content (rating): 4.0/5 Workload: 4.0/5 Grading: 4.0/5 Attendance leniency: 2.0/5 Overall: 4.0/5 Gave us theobroma brownies after the end of the course :) Strict about no late entry to class TAs were nice Requires technicality in answers for a good grade, you can't just write faff or stories and expect marks I liked the course contents as they were quite varied which avoided the mundane"
+        }
+      ],
+      "reviews": [
+        {
+          "source": "bsw",
+          "courseCode": "HUL239",
+          "professor": "Stuti Khanna",
+          "professorKey": "stuti khanna",
+          "timestamp": "2025-04-22T11:11:28.855000+00:00",
+          "labels": {
+            "content_rating": 4.0,
+            "workload": 4.0,
+            "grading": 4.0,
+            "attendance_lenient": 2.0,
+            "overall_experience": 4.0
+          },
+          "textBlocks": [
+            {
+              "label": "Comments",
+              "value": "Gave us theobroma brownies after the end of the course :)\nStrict about no late entry to class\nTAs were nice\nRequires technicality in answers for a good grade, you can't just write faff or stories and expect marks \nI liked the course contents as they were quite varied which avoided the mundane"
+            }
+          ]
+        },
+        {
+          "source": "hss",
+          "courseCode": "HUL239",
+          "professor": "Dickens Leonard",
+          "professorKey": "dickens leonard",
+          "timestamp": "2024-04-03T00:02:10.437000+00:00",
+          "labels": {
+            "workload": 2.0,
+            "evaluations_hardness": 2.0
+          },
+          "textBlocks": [
+            {
+              "label": "Offering Session",
+              "value": "2023-24"
+            },
+            {
+              "label": "Evaluations used",
+              "value": "Surprise Quizzes, MCQ Evaluations in Minor/Major, Tutorial Submissions, Class Participation, Subjective Minors and Majors"
+            },
+            {
+              "label": "Course content",
+              "value": "Medium"
+            },
+            {
+              "label": "Content sharing",
+              "value": "Exam relevant content is shared"
+            },
+            {
+              "label": "Grading",
+              "value": "Easy Nehli/Dassi"
+            },
+            {
+              "label": "Tutorials",
+              "value": "Graded Tutorials"
+            },
+            {
+              "label": "Attendance policy",
+              "value": "80%+"
+            },
+            {
+              "label": "Overall",
+              "value": "Fun"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "HUL242",
+      "title": "FUNDAMENTALS OF LANGUAGE SCIENCES",
+      "credits": 4,
+      "slot": "M",
+      "currentInstructor": "SAHIINII LEMAINA VEIKHO",
+      "reviewCount": 13,
+      "overall": {
+        "n": 13,
+        "averages": {
+          "content_rating": 3.57,
+          "workload": 2.08,
+          "grading": 3.57,
+          "attendance_lenient": 1.86,
+          "overall_experience": 3.57,
+          "evaluations_hardness": 2.67
+        },
+        "snippet": "Content (rating): 5.0/5 Workload: 2.0/5 Grading: 3.0/5 Attendance leniency: 2.0/5 Overall: 5.0/5 Surprise quizzes, but very easy. Very nice prof."
+      },
+      "byProfessor": [
+        {
+          "professorKey": "pritha chandra",
+          "professor": "Pritha Chandra",
+          "n": 8,
+          "averages": {
+            "content_rating": 3.25,
+            "workload": 2.25,
+            "grading": 3.5,
+            "attendance_lenient": 1.5,
+            "overall_experience": 2.75,
+            "evaluations_hardness": 2.75
+          },
+          "snippet": "Content (rating): 4.0/5 Workload: 2.0/5 Grading: 3.0/5 Attendance leniency: 1.0/5 Overall: 2.0/5 She hates UG boys"
+        },
+        {
+          "professorKey": "deepak alok",
+          "professor": "Deepak Alok",
+          "n": 2,
+          "averages": {
+            "content_rating": 5.0,
+            "workload": 2.0,
+            "grading": 3.0,
+            "attendance_lenient": 2.0,
+            "overall_experience": 5.0,
+            "evaluations_hardness": 2.0
+          },
+          "snippet": "Content (rating): 5.0/5 Workload: 2.0/5 Grading: 3.0/5 Attendance leniency: 2.0/5 Overall: 5.0/5 Surprise quizzes, but very easy. Very nice prof."
+        },
+        {
+          "professorKey": "abhijeet dixit",
+          "professor": "Abhijeet Dixit",
+          "n": 1,
+          "averages": {
+            "content_rating": 4.0,
+            "workload": 3.0,
+            "grading": 3.0,
+            "attendance_lenient": 2.0,
+            "overall_experience": 4.0
+          },
+          "snippet": "Content (rating): 4.0/5 Workload: 3.0/5 Grading: 3.0/5 Attendance leniency: 2.0/5 Overall: 4.0/5 Interesting content, no attendance policy, surprise quizzes, easy minor/quizzes, majors yet to be held."
+        },
+        {
+          "professorKey": "ashwini vaidya",
+          "professor": "Ashwini Vaidya",
+          "n": 1,
+          "averages": {
+            "workload": 1.0,
+            "evaluations_hardness": 3.0
+          },
+          "snippet": "Workload: 1.0/5 Eval hardness: 3.0/5 2022-23 Scheduled Quizzes, Term Papers, MCQ Evaluations in Minor/Major, Subjective Minors and Majors Easy to understand Exam relevant content is shared Easy Nehli/Dassi, Absolute Criteria for Dassi No attendance"
+        },
+        {
+          "professorKey": "milind wakankar",
+          "professor": "Milind Wakankar",
+          "n": 1,
+          "averages": {
+            "content_rating": 3.0,
+            "workload": 1.0,
+            "grading": 5.0,
+            "attendance_lenient": 3.0,
+            "overall_experience": 5.0
+          },
+          "snippet": "Content (rating): 3.0/5 Workload: 1.0/5 Grading: 5.0/5 Attendance leniency: 3.0/5 Overall: 5.0/5 Easy 9-10 , for average mostly 9"
+        }
+      ],
+      "reviews": [
+        {
+          "source": "bsw",
+          "courseCode": "HUL242",
+          "professor": "Pritha Chandra",
+          "professorKey": "pritha chandra",
+          "timestamp": null,
+          "labels": {
+            "content_rating": 3.0,
+            "workload": 2.0,
+            "grading": 4.0,
+            "attendance_lenient": 1.0,
+            "overall_experience": 3.0
+          },
+          "textBlocks": [
+            {
+              "label": "Comments",
+              "value": "Prof is chill, absolute grading, moreover easy to score in majors, graded tuts and assignments and surprise quizzes in classes, analytical course hence no open ended answers."
+            }
+          ]
+        },
+        {
+          "source": "bsw",
+          "courseCode": "HUL242",
+          "professor": "Abhijeet Dixit",
+          "professorKey": "abhijeet dixit",
+          "timestamp": "2025-04-21T23:57:08.860000+00:00",
+          "labels": {
+            "content_rating": 4.0,
+            "workload": 3.0,
+            "grading": 3.0,
+            "attendance_lenient": 2.0,
+            "overall_experience": 4.0
+          },
+          "textBlocks": [
+            {
+              "label": "Comments",
+              "value": "Interesting content, no attendance policy, surprise quizzes, easy minor/quizzes, majors yet to be held."
+            }
+          ]
+        },
+        {
+          "source": "bsw",
+          "courseCode": "HUL242",
+          "professor": "Deepak Alok",
+          "professorKey": "deepak alok",
+          "timestamp": "2025-04-22T07:50:46.172000+00:00",
+          "labels": {
+            "content_rating": 5.0,
+            "workload": 2.0,
+            "grading": 3.0,
+            "attendance_lenient": 2.0,
+            "overall_experience": 5.0
+          },
+          "textBlocks": [
+            {
+              "label": "Comments",
+              "value": "Surprise quizzes, but very easy. Very nice prof."
+            }
+          ]
+        },
+        {
+          "source": "bsw",
+          "courseCode": "HUL242",
+          "professor": "Milind Wakankar",
+          "professorKey": "milind wakankar",
+          "timestamp": "2025-04-22T01:32:11.541000+00:00",
+          "labels": {
+            "content_rating": 3.0,
+            "workload": 1.0,
+            "grading": 5.0,
+            "attendance_lenient": 3.0,
+            "overall_experience": 5.0
+          },
+          "textBlocks": [
+            {
+              "label": "Comments",
+              "value": "Easy 9-10 , for average mostly 9"
+            }
+          ]
+        },
+        {
+          "source": "bsw",
+          "courseCode": "HUL242",
+          "professor": "Pritha Chandra",
+          "professorKey": "pritha chandra",
+          "timestamp": "2025-04-22T01:33:39.776000+00:00",
+          "labels": {
+            "content_rating": 3.0,
+            "workload": 4.0,
+            "grading": 4.0,
+            "attendance_lenient": 3.0,
+            "overall_experience": 4.0
+          },
+          "textBlocks": [
+            {
+              "label": "Comments",
+              "value": "Course is quite easy\nOnly thing is there were 6 quizzes so you need to study every alternate week for them"
+            }
+          ]
+        },
+        {
+          "source": "bsw",
+          "courseCode": "HUL242",
+          "professor": "Pritha Chandra",
+          "professorKey": "pritha chandra",
+          "timestamp": "2025-04-22T01:30:03.730000+00:00",
+          "labels": {
+            "content_rating": 3.0,
+            "workload": 2.0,
+            "grading": 3.0,
+            "attendance_lenient": 1.0,
+            "overall_experience": 2.0
+          },
+          "textBlocks": [
+            {
+              "label": "Comments",
+              "value": "Surprise quizzes"
+            }
+          ]
+        },
+        {
+          "source": "bsw",
+          "courseCode": "HUL242",
+          "professor": "Pritha Chandra",
+          "professorKey": "pritha chandra",
+          "timestamp": "2025-04-22T03:29:03.031000+00:00",
+          "labels": {
+            "content_rating": 4.0,
+            "workload": 2.0,
+            "grading": 3.0,
+            "attendance_lenient": 1.0,
+            "overall_experience": 2.0
+          },
+          "textBlocks": [
+            {
+              "label": "Comments",
+              "value": "She hates UG boys"
+            }
+          ]
+        },
+        {
+          "source": "hss",
+          "courseCode": "HUL242",
+          "professor": "Ashwini Vaidya",
+          "professorKey": "ashwini vaidya",
+          "timestamp": "2024-04-03T00:23:27.198000+00:00",
+          "labels": {
+            "workload": 1.0,
+            "evaluations_hardness": 3.0
+          },
+          "textBlocks": [
+            {
+              "label": "Offering Session",
+              "value": "2022-23"
+            },
+            {
+              "label": "Evaluations used",
+              "value": "Scheduled Quizzes, Term Papers, MCQ Evaluations in Minor/Major, Subjective Minors and Majors"
+            },
+            {
+              "label": "Course content",
+              "value": "Easy to understand"
+            },
+            {
+              "label": "Content sharing",
+              "value": "Exam relevant content is shared"
+            },
+            {
+              "label": "Grading",
+              "value": "Easy Nehli/Dassi, Absolute Criteria for Dassi"
+            },
+            {
+              "label": "Tutorials",
+              "value": "No attendance"
+            }
+          ]
+        },
+        {
+          "source": "hss",
+          "courseCode": "HUL242",
+          "professor": "Pritha Chandra",
+          "professorKey": "pritha chandra",
+          "timestamp": "2024-04-03T00:28:02.147000+00:00",
+          "labels": {
+            "workload": 1.0,
+            "evaluations_hardness": 2.0
+          },
+          "textBlocks": [
+            {
+              "label": "Offering Session",
+              "value": "2023-24"
+            },
+            {
+              "label": "Evaluations used",
+              "value": "Scheduled Quizzes, MCQ Evaluations in Minor/Major, Tutorial Submissions, Subjective Minors and Majors"
+            },
+            {
+              "label": "Course content",
+              "value": "Easy to understand"
+            },
+            {
+              "label": "Content sharing",
+              "value": "Exam relevant content is shared"
+            },
+            {
+              "label": "Grading",
+              "value": "Absolute Criteria for Dassi"
+            },
+            {
+              "label": "Tutorials",
+              "value": "Graded Tutorials"
+            },
+            {
+              "label": "Attendance policy",
+              "value": "Strict about 75%"
+            },
+            {
+              "label": "Overall",
+              "value": "Chill professor, light course, interesting content"
+            }
+          ]
+        },
+        {
+          "source": "hss",
+          "courseCode": "HUL242",
+          "professor": "Pritha chandra",
+          "professorKey": "pritha chandra",
+          "timestamp": "2024-04-03T01:01:19.934000+00:00",
+          "labels": {
+            "workload": 2.0,
+            "evaluations_hardness": 2.0
+          },
+          "textBlocks": [
+            {
+              "label": "Offering Session",
+              "value": "2023-24"
+            },
+            {
+              "label": "Evaluations used",
+              "value": "Scheduled Quizzes, Tutorial Submissions, Subjective Minors and Majors"
+            },
+            {
+              "label": "Course content",
+              "value": "Easy to understand"
+            },
+            {
+              "label": "Content sharing",
+              "value": "Exam relevant content is shared"
+            },
+            {
+              "label": "Grading",
+              "value": "Easy Nehli/Dassi"
+            },
+            {
+              "label": "Tutorials",
+              "value": "Graded Tutorials"
+            },
+            {
+              "label": "Attendance policy",
+              "value": "80%+"
+            }
+          ]
+        },
+        {
+          "source": "hss",
+          "courseCode": "HUL242",
+          "professor": "Pritha Chandra",
+          "professorKey": "pritha chandra",
+          "timestamp": "2024-04-03T09:35:30.201000+00:00",
+          "labels": {
+            "workload": 2.0,
+            "evaluations_hardness": 3.0
+          },
+          "textBlocks": [
+            {
+              "label": "Offering Session",
+              "value": "2023-24"
+            },
+            {
+              "label": "Evaluations used",
+              "value": "Scheduled Quizzes, MCQ Evaluations in Minor/Major, Subjective Minors and Majors"
+            },
+            {
+              "label": "Course content",
+              "value": "Easy to understand"
+            },
+            {
+              "label": "Content sharing",
+              "value": "Exam relevant content is shared"
+            },
+            {
+              "label": "Grading",
+              "value": "Easy Nehli/Dassi"
+            },
+            {
+              "label": "Tutorials",
+              "value": "Graded Tutorials, Mandatory Attendance"
+            },
+            {
+              "label": "Attendance policy",
+              "value": "Strict about 75%"
+            }
+          ]
+        },
+        {
+          "source": "hss",
+          "courseCode": "HUL242",
+          "professor": "Deepak alok",
+          "professorKey": "deepak alok",
+          "timestamp": "2024-04-03T13:03:32.732000+00:00",
+          "labels": {
+            "workload": 2.0,
+            "evaluations_hardness": 2.0
+          },
+          "textBlocks": [
+            {
+              "label": "Offering Session",
+              "value": "2023-24"
+            },
+            {
+              "label": "Evaluations used",
+              "value": "Scheduled Quizzes, Subjective Minors and Majors"
+            },
+            {
+              "label": "Course content",
+              "value": "Easy to understand"
+            },
+            {
+              "label": "Content sharing",
+              "value": "Exam relevant content is shared"
+            },
+            {
+              "label": "Grading",
+              "value": "Easy Nehli/Dassi"
+            },
+            {
+              "label": "Tutorials",
+              "value": "Mandatory Attendance"
+            },
+            {
+              "label": "Attendance policy",
+              "value": "Strict about 75%"
+            },
+            {
+              "label": "Overall",
+              "value": "Chill prof if u come to class regularly easy 9,10"
+            }
+          ]
+        },
+        {
+          "source": "hss",
+          "courseCode": "HUL242",
+          "professor": "Pritha Chandra",
+          "professorKey": "pritha chandra",
+          "timestamp": "2024-04-06T14:13:45.981000+00:00",
+          "labels": {
+            "workload": 3.0,
+            "evaluations_hardness": 4.0
+          },
+          "textBlocks": [
+            {
+              "label": "Offering Session",
+              "value": "2023-24"
+            },
+            {
+              "label": "Evaluations used",
+              "value": "Tutorial Submissions, Subjective Minors and Majors"
+            },
+            {
+              "label": "Course content",
+              "value": "Hard"
+            },
+            {
+              "label": "Content sharing",
+              "value": "Exam relevant content is shared"
+            },
+            {
+              "label": "Grading",
+              "value": "Absolute Criteria for Dassi"
+            },
+            {
+              "label": "Tutorials",
+              "value": "Graded Tutorials, Mandatory Attendance"
+            },
+            {
+              "label": "Attendance policy",
+              "value": "Strict about 75%"
+            },
+            {
+              "label": "Overall",
+              "value": "You can take it , but efforts are required"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "HUL258",
+      "title": "SOCIAL AND POLITICAL PHILOSOPHY",
+      "credits": 4,
+      "slot": "A",
+      "currentInstructor": "BHARATI PURI",
+      "reviewCount": 7,
+      "overall": {
+        "n": 7,
+        "averages": {
+          "content_rating": 4.33,
+          "workload": 3.0,
+          "grading": 3.33,
+          "attendance_lenient": 3.33,
+          "overall_experience": 4.0,
+          "evaluations_hardness": 2.75
+        },
+        "snippet": "Content (rating): 3.0/5 Workload: 3.0/5 Grading: 1.0/5 Attendance leniency: 3.0/5 Overall: 2.0/5 Professor did random grading and no reasons were given"
+      },
+      "byProfessor": [
+        {
+          "professorKey": "bharti puri",
+          "professor": "Bharti puri",
+          "n": 3,
+          "averages": {
+            "content_rating": 3.0,
+            "workload": 2.33,
+            "grading": 1.0,
+            "attendance_lenient": 3.0,
+            "overall_experience": 2.0,
+            "evaluations_hardness": 1.5
+          },
+          "snippet": "Content (rating): 3.0/5 Workload: 3.0/5 Grading: 1.0/5 Attendance leniency: 3.0/5 Overall: 2.0/5 Professor did random grading and no reasons were given"
+        },
+        {
+          "professorKey": "arudra burra",
+          "professor": "Arudra Burra",
+          "n": 2,
+          "averages": {
+            "content_rating": 5.0,
+            "workload": 4.5,
+            "grading": 4.5,
+            "attendance_lenient": 3.5,
+            "overall_experience": 5.0
+          },
+          "snippet": "Content (rating): 5.0/5 Workload: 4.0/5 Grading: 5.0/5 Attendance leniency: 3.0/5 Overall: 5.0/5 Political current affairs involved. Pentagon papers, watergate scandal discussed. How mechanisms of political accountability are attacked were a critical part of the course. Best professor."
+        },
+        {
+          "professorKey": "bharati puri",
+          "professor": "Bharati puri",
+          "n": 2,
+          "averages": {
+            "workload": 2.5,
+            "evaluations_hardness": 4.0
+          },
+          "snippet": "Workload: 3.0/5 Eval hardness: 5.0/5 2023-24 Term Papers, Tutorial Submissions, Class Participation, Subjective Minors and Majors Medium Exam relevant content is shared Hard Nehli/Dassi Mandatory Attendance Strict about 75% Great Proffesor, cares about the students and the subject material a lot, puts in full efforts to teach the students The TAs however aren't that great, not that great of a marking scheme"
+        }
+      ],
+      "reviews": [
+        {
+          "source": "bsw",
+          "courseCode": "HUL258",
+          "professor": "Arudra Burra",
+          "professorKey": "arudra burra",
+          "timestamp": "2025-04-22T02:46:22.522000+00:00",
+          "labels": {
+            "content_rating": 5.0,
+            "workload": 5.0,
+            "grading": 4.0,
+            "attendance_lenient": 4.0,
+            "overall_experience": 5.0
+          },
+          "textBlocks": [
+            {
+              "label": "Comments",
+              "value": "Very good prof teaching-wise just need to listen in class for completing the syllabus.... Apart from minor major rest are almost free marks"
+            }
+          ]
+        },
+        {
+          "source": "bsw",
+          "courseCode": "HUL258",
+          "professor": "Arudra Burra",
+          "professorKey": "arudra burra",
+          "timestamp": "2025-04-22T08:12:19.066000+00:00",
+          "labels": {
+            "content_rating": 5.0,
+            "workload": 4.0,
+            "grading": 5.0,
+            "attendance_lenient": 3.0,
+            "overall_experience": 5.0
+          },
+          "textBlocks": [
+            {
+              "label": "Comments",
+              "value": "Political current affairs involved. Pentagon papers, watergate scandal discussed. How mechanisms of political accountability are attacked were a critical part of the course. Best professor."
+            }
+          ]
+        },
+        {
+          "source": "bsw",
+          "courseCode": "HUL258",
+          "professor": "Bharti puri",
+          "professorKey": "bharti puri",
+          "timestamp": "2025-04-22T17:10:51.360000+00:00",
+          "labels": {
+            "content_rating": 3.0,
+            "workload": 3.0,
+            "grading": 1.0,
+            "attendance_lenient": 3.0,
+            "overall_experience": 2.0
+          },
+          "textBlocks": [
+            {
+              "label": "Comments",
+              "value": "Professor did random grading and no reasons were given"
+            }
+          ]
+        },
+        {
+          "source": "hss",
+          "courseCode": "HUL258",
+          "professor": "Bharti puri",
+          "professorKey": "bharti puri",
+          "timestamp": "2024-04-03T09:47:08.914000+00:00",
+          "labels": {
+            "workload": 1.0,
+            "evaluations_hardness": 1.0
+          },
+          "textBlocks": [
+            {
+              "label": "Offering Session",
+              "value": "2023-24"
+            },
+            {
+              "label": "Evaluations used",
+              "value": "Term Papers, Class Participation, Subjective Minors and Majors"
+            },
+            {
+              "label": "Course content",
+              "value": "Easy to understand"
+            },
+            {
+              "label": "Content sharing",
+              "value": "Exam relevant content is shared"
+            },
+            {
+              "label": "Grading",
+              "value": "Easy Nehli/Dassi"
+            },
+            {
+              "label": "Tutorials",
+              "value": "Mandatory Attendance"
+            },
+            {
+              "label": "Attendance policy",
+              "value": "No Policy is Enforced"
+            }
+          ]
+        },
+        {
+          "source": "hss",
+          "courseCode": "HUL258",
+          "professor": "Bharti puri",
+          "professorKey": "bharti puri",
+          "timestamp": "2024-04-03T12:57:12.627000+00:00",
+          "labels": {
+            "workload": 3.0,
+            "evaluations_hardness": 2.0
+          },
+          "textBlocks": [
+            {
+              "label": "Offering Session",
+              "value": "2023-24"
+            },
+            {
+              "label": "Evaluations used",
+              "value": "Class Participation, Subjective Minors and Majors"
+            },
+            {
+              "label": "Course content",
+              "value": "Easy to understand"
+            },
+            {
+              "label": "Content sharing",
+              "value": "Exam relevant content is shared"
+            },
+            {
+              "label": "Grading",
+              "value": "Absolute Criteria for Dassi"
+            },
+            {
+              "label": "Tutorials",
+              "value": "Mandatory Attendance"
+            },
+            {
+              "label": "Attendance policy",
+              "value": "Strict about 75%"
+            },
+            {
+              "label": "Overall",
+              "value": "Overall easy course"
+            }
+          ]
+        },
+        {
+          "source": "hss",
+          "courseCode": "HUL258",
+          "professor": "Bharati puri",
+          "professorKey": "bharati puri",
+          "timestamp": "2024-04-03T13:05:23.262000+00:00",
+          "labels": {
+            "workload": 2.0,
+            "evaluations_hardness": 3.0
+          },
+          "textBlocks": [
+            {
+              "label": "Offering Session",
+              "value": "2023-24"
+            },
+            {
+              "label": "Evaluations used",
+              "value": "Subjective Minors and Majors"
+            },
+            {
+              "label": "Course content",
+              "value": "Easy to understand"
+            },
+            {
+              "label": "Content sharing",
+              "value": "Exam relevant content is not shared, but general content is shared"
+            },
+            {
+              "label": "Grading",
+              "value": "Medium"
+            },
+            {
+              "label": "Tutorials",
+              "value": "Mandatory Attendance"
+            },
+            {
+              "label": "Overall",
+              "value": "Coordinator is totally not recommended. don't take any course of hers"
+            }
+          ]
+        },
+        {
+          "source": "hss",
+          "courseCode": "HUL258",
+          "professor": "Bharati Puri",
+          "professorKey": "bharati puri",
+          "timestamp": "2024-04-03T13:13:01.847000+00:00",
+          "labels": {
+            "workload": 3.0,
+            "evaluations_hardness": 5.0
+          },
+          "textBlocks": [
+            {
+              "label": "Offering Session",
+              "value": "2023-24"
+            },
+            {
+              "label": "Evaluations used",
+              "value": "Term Papers, Tutorial Submissions, Class Participation, Subjective Minors and Majors"
+            },
+            {
+              "label": "Course content",
+              "value": "Medium"
+            },
+            {
+              "label": "Content sharing",
+              "value": "Exam relevant content is shared"
+            },
+            {
+              "label": "Grading",
+              "value": "Hard Nehli/Dassi"
+            },
+            {
+              "label": "Tutorials",
+              "value": "Mandatory Attendance"
+            },
+            {
+              "label": "Attendance policy",
+              "value": "Strict about 75%"
+            },
+            {
+              "label": "Overall",
+              "value": "Great Proffesor, cares about the students and the subject material a lot, puts in full efforts to teach the students\nThe TAs however aren't that great, not that great of a marking scheme"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "HUL261",
+      "title": "INTRODUCTION TO PSYCHOLOGY",
+      "credits": 4,
+      "slot": "M",
+      "currentInstructor": "YASHPAL ASHOKRAO JOGDAND",
+      "reviewCount": 23,
+      "overall": {
+        "n": 23,
+        "averages": {
+          "content_rating": 3.6,
+          "workload": 3.22,
+          "grading": 3.5,
+          "attendance_lenient": 3.2,
+          "overall_experience": 3.1,
+          "evaluations_hardness": 3.31
+        },
+        "snippet": "Content (rating): 5.0/5 Workload: 5.0/5 Grading: 5.0/5 Attendance leniency: 1.0/5 Overall: 5.0/5 easy course"
+      },
+      "byProfessor": [
+        {
+          "professorKey": "sumitava mukherjee",
+          "professor": "Sumitava Mukherjee",
+          "n": 10,
+          "averages": {
+            "content_rating": 3.14,
+            "workload": 3.2,
+            "grading": 3.0,
+            "attendance_lenient": 3.57,
+            "overall_experience": 2.43,
+            "evaluations_hardness": 3.67
+          },
+          "snippet": "Content (rating): 1.0/5 Workload: 2.0/5 Grading: 2.0/5 Attendance leniency: 3.0/5 Overall: 2.0/5 Bohot zyada posters bnane pade, minor ki grading ajeeb si thi"
+        },
+        {
+          "professorKey": "sumitash jana",
+          "professor": "SUMITASH JANA",
+          "n": 4,
+          "averages": {
+            "workload": 2.75,
+            "evaluations_hardness": 3.5
+          },
+          "snippet": "Workload: 1.0/5 Eval hardness: 3.0/5 2023-24 Scheduled Quizzes, MCQ Evaluations in Minor/Major, Class Participation Easy to understand Exam relevant content is shared Easy Nehli/Dassi Mandatory Attendance 80%+ Nice for cg"
+        },
+        {
+          "professorKey": "varsha singh",
+          "professor": "Varsha singh",
+          "n": 3,
+          "averages": {
+            "workload": 3.33,
+            "evaluations_hardness": 3.67
+          },
+          "snippet": "Workload: 4.0/5 Eval hardness: 4.0/5 2023-24 Surprise Quizzes, Term Papers, Subjective Minors and Majors Easy to understand, Medium Directly from Textbook Absolute Criteria for Dassi No attendance Strict about 75% Roll call for attndence, too many suprize quizzes, too much efforts for end term report, would not recommed this course under varsha singh"
+        },
+        {
+          "professorKey": "yashpal ashokarao jogadand",
+          "professor": "Yashpal Ashokarao Jogadand",
+          "n": 3,
+          "averages": {
+            "content_rating": 4.67,
+            "workload": 4.67,
+            "grading": 4.67,
+            "attendance_lenient": 2.33,
+            "overall_experience": 4.67
+          },
+          "snippet": "Content (rating): 5.0/5 Workload: 5.0/5 Grading: 5.0/5 Attendance leniency: 1.0/5 Overall: 5.0/5 easy course"
+        },
+        {
+          "professorKey": "sumitash",
+          "professor": "Sumitash",
+          "n": 1,
+          "averages": {
+            "workload": 2.0,
+            "evaluations_hardness": 3.0
+          },
+          "snippet": "Workload: 2.0/5 Eval hardness: 3.0/5 2023-24 Scheduled Quizzes, MCQ Evaluations in Minor/Major, Tutorial Submissions, Class Participation Easy to understand Exam relevant content is not shared, but general content is shared No idea yet No attendance Strict about 75%, Above 70%"
+        },
+        {
+          "professorKey": "sumitava mukherjee, yashpal jogdand",
+          "professor": "Sumitava Mukherjee, Yashpal Jogdand",
+          "n": 1,
+          "averages": {
+            "workload": 3.0,
+            "evaluations_hardness": 2.0
+          },
+          "snippet": "Workload: 3.0/5 Eval hardness: 2.0/5 2022-23 Surprise Quizzes, MCQ Evaluations in Minor/Major, Tutorial Submissions, Class Participation, Subjective Minors and Majors, Minor/Major had a mix of subjective and objective questions Easy to understand Exam relevant content is shared Easy Nehli/Dassi Graded Tutorials, Interactive, insightful tutorials No Policy is Enforced Good course if you have even a basic interest in psychology"
+        },
+        {
+          "professorKey": "sumitva mukherjee",
+          "professor": "Sumitva Mukherjee",
+          "n": 1,
+          "averages": {
+            "workload": 2.0,
+            "evaluations_hardness": 2.0
+          },
+          "snippet": "Workload: 2.0/5 Eval hardness: 2.0/5 2023-24 Scheduled Quizzes, Assignments, Subjective Minors and Majors Easy to understand Exam relevant content is shared Easy Nehli/Dassi, Not sure, but probably 10 at 80 Mandatory Attendance Very chill course, just go through readings before exam, make note of key terms and use them in answers, be elaborate while explaining, prof gives marks pretty easily. 15 marks pretty much free, for just going to CSC for 2 hours and filling surveys. Don't need to pay much attention in class…"
+        }
+      ],
+      "reviews": [
+        {
+          "source": "bsw",
+          "courseCode": "HUL261",
+          "professor": "Sumitava Mukherjee",
+          "professorKey": "sumitava mukherjee",
+          "timestamp": null,
+          "labels": {
+            "content_rating": 5.0,
+            "workload": 5.0,
+            "grading": 5.0,
+            "attendance_lenient": 3.0,
+            "overall_experience": 5.0
+          },
+          "textBlocks": [
+            {
+              "label": "Comments",
+              "value": "Very easy and light course, many assignments but can be easily done."
+            }
+          ]
+        },
+        {
+          "source": "bsw",
+          "courseCode": "HUL261",
+          "professor": "Sumitava Mukherjee",
+          "professorKey": "sumitava mukherjee",
+          "timestamp": "2025-04-22T00:05:15.047000+00:00",
+          "labels": {
+            "content_rating": 5.0,
+            "workload": 5.0,
+            "grading": 4.0,
+            "attendance_lenient": 4.0,
+            "overall_experience": 4.0
+          },
+          "textBlocks": [
+            {
+              "label": "Comments",
+              "value": "20 marks were about drawing a poster and that was very uncertain for me. Not strict attendance but 5 marks for class participation, well which requires to be present in class"
+            }
+          ]
+        },
+        {
+          "source": "bsw",
+          "courseCode": "HUL261",
+          "professor": "Sumitava Mukherjee",
+          "professorKey": "sumitava mukherjee",
+          "timestamp": "2025-04-22T00:26:20.265000+00:00",
+          "labels": {
+            "content_rating": 3.0,
+            "workload": 4.0,
+            "grading": 1.0,
+            "attendance_lenient": 5.0,
+            "overall_experience": 1.0
+          },
+          "textBlocks": [
+            {
+              "label": "Comments",
+              "value": "Teaching and content were okayish but Grading was bad - only 2-3 people got A out of 600 people. moreover in minor and major exams, if you write the exact words in prof's slides, then only he would give you marks else even if your answer is correct, he would dismiss it saying \"very Generic answer\""
+            }
+          ]
+        },
+        {
+          "source": "bsw",
+          "courseCode": "HUL261",
+          "professor": "Sumitava Mukherjee",
+          "professorKey": "sumitava mukherjee",
+          "timestamp": "2025-04-22T00:27:07.506000+00:00",
+          "labels": {
+            "content_rating": 4.0,
+            "workload": 2.0,
+            "grading": 4.0,
+            "attendance_lenient": 3.0,
+            "overall_experience": 2.0
+          },
+          "textBlocks": [
+            {
+              "label": "Comments",
+              "value": "The course policy was too vague for non minor and major portion, it was a significant part which was VERY unplanned. They had research activities which were only needed for their own study purposes which were graded for us, and we got a very short prior notice to attend these activities in the tutorial timings, very unplanned, very unprofessional, especially the TAs\nThe prof on contrary is an absolute pookie and teaches really very well. The exams were so no difficult, easy 9 if gone through the slides just once acche se\nIf taking this course, please make sure TAs are not from the 2024-2025 Sem 2 batch"
+            }
+          ]
+        },
+        {
+          "source": "bsw",
+          "courseCode": "HUL261",
+          "professor": "Sumitava Mukherjee",
+          "professorKey": "sumitava mukherjee",
+          "timestamp": "2025-04-22T01:47:47+00:00",
+          "labels": {
+            "content_rating": 1.0,
+            "workload": 2.0,
+            "grading": 2.0,
+            "attendance_lenient": 3.0,
+            "overall_experience": 2.0
+          },
+          "textBlocks": [
+            {
+              "label": "Comments",
+              "value": "We had to make a lot of posters"
+            }
+          ]
+        },
+        {
+          "source": "bsw",
+          "courseCode": "HUL261",
+          "professor": "Sumitava Mukherjee",
+          "professorKey": "sumitava mukherjee",
+          "timestamp": "2025-04-22T01:47:59.987000+00:00",
+          "labels": {
+            "content_rating": 1.0,
+            "workload": 2.0,
+            "grading": 2.0,
+            "attendance_lenient": 3.0,
+            "overall_experience": 2.0
+          },
+          "textBlocks": [
+            {
+              "label": "Comments",
+              "value": "Bohot zyada posters bnane pade, minor ki grading ajeeb si thi"
+            }
+          ]
+        },
+        {
+          "source": "bsw",
+          "courseCode": "HUL261",
+          "professor": "Sumitava Mukherjee",
+          "professorKey": "sumitava mukherjee",
+          "timestamp": "2025-04-22T00:19:46.153000+00:00",
+          "labels": {
+            "content_rating": 3.0,
+            "workload": 4.0,
+            "grading": 3.0,
+            "attendance_lenient": 4.0,
+            "overall_experience": 1.0
+          },
+          "textBlocks": [
+            {
+              "label": "Comments",
+              "value": "don't take this course as different TAs check different papers , so your marks are  purely based on luck"
+            }
+          ]
+        },
+        {
+          "source": "bsw",
+          "courseCode": "HUL261",
+          "professor": "Yashpal Ashokarao Jogadand",
+          "professorKey": "yashpal ashokarao jogadand",
+          "timestamp": "2025-04-22T11:57:08.881000+00:00",
+          "labels": {
+            "content_rating": 5.0,
+            "workload": 5.0,
+            "grading": 4.0,
+            "attendance_lenient": 3.0,
+            "overall_experience": 4.0
+          },
+          "textBlocks": [
+            {
+              "label": "Comments",
+              "value": "Easy course , but high scoring still getting a nehli in this is easy., but 10 ke liye foght maarni padegi due to competition ."
+            }
+          ]
+        },
+        {
+          "source": "bsw",
+          "courseCode": "HUL261",
+          "professor": "Yashpal Ashokarao Jogadand",
+          "professorKey": "yashpal ashokarao jogadand",
+          "timestamp": "2025-04-22T13:18:56.122000+00:00",
+          "labels": {
+            "content_rating": 4.0,
+            "workload": 4.0,
+            "grading": 5.0,
+            "attendance_lenient": 3.0,
+            "overall_experience": 5.0
+          },
+          "textBlocks": [
+            {
+              "label": "Comments",
+              "value": "a very intuitive course, just study 4-5 hours before the paper \nPure yapping backed by the facts given in the ppt."
+            }
+          ]
+        },
+        {
+          "source": "bsw",
+          "courseCode": "HUL261",
+          "professor": "Yashpal Ashokarao Jogadand",
+          "professorKey": "yashpal ashokarao jogadand",
+          "timestamp": "2025-04-22T13:20:50.236000+00:00",
+          "labels": {
+            "content_rating": 5.0,
+            "workload": 5.0,
+            "grading": 5.0,
+            "attendance_lenient": 1.0,
+            "overall_experience": 5.0
+          },
+          "textBlocks": [
+            {
+              "label": "Comments",
+              "value": "easy course"
+            }
+          ]
+        },
+        {
+          "source": "hss",
+          "courseCode": "HUL261",
+          "professor": "Sumitava Mukherjee, Yashpal Jogdand",
+          "professorKey": "sumitava mukherjee, yashpal jogdand",
+          "timestamp": "2024-04-02T23:39:11.965000+00:00",
+          "labels": {
+            "workload": 3.0,
+            "evaluations_hardness": 2.0
+          },
+          "textBlocks": [
+            {
+              "label": "Offering Session",
+              "value": "2022-23"
+            },
+            {
+              "label": "Evaluations used",
+              "value": "Surprise Quizzes, MCQ Evaluations in Minor/Major, Tutorial Submissions, Class Participation, Subjective Minors and Majors, Minor/Major had a mix of subjective and objective questions"
+            },
+            {
+              "label": "Course content",
+              "value": "Easy to understand"
+            },
+            {
+              "label": "Content sharing",
+              "value": "Exam relevant content is shared"
+            },
+            {
+              "label": "Grading",
+              "value": "Easy Nehli/Dassi"
+            },
+            {
+              "label": "Tutorials",
+              "value": "Graded Tutorials, Interactive, insightful tutorials"
+            },
+            {
+              "label": "Attendance policy",
+              "value": "No Policy is Enforced"
+            },
+            {
+              "label": "Overall",
+              "value": "Good course if you have even a basic interest in psychology"
+            }
+          ]
+        },
+        {
+          "source": "hss",
+          "courseCode": "HUL261",
+          "professor": "SUMITASH JANA",
+          "professorKey": "sumitash jana",
+          "timestamp": "2024-04-03T00:10:42.267000+00:00",
+          "labels": {
+            "workload": 3.0,
+            "evaluations_hardness": 5.0
+          },
+          "textBlocks": [
+            {
+              "label": "Offering Session",
+              "value": "2023-24"
+            },
+            {
+              "label": "Evaluations used",
+              "value": "Scheduled Quizzes, MCQ Evaluations in Minor/Major"
+            },
+            {
+              "label": "Course content",
+              "value": "Easy to understand"
+            },
+            {
+              "label": "Content sharing",
+              "value": "Exam relevant content is shared"
+            },
+            {
+              "label": "Grading",
+              "value": "Absolute Criteria for Dassi"
+            },
+            {
+              "label": "Tutorials",
+              "value": "Mandatory Attendance"
+            },
+            {
+              "label": "Attendance policy",
+              "value": "Strict about 75%"
+            },
+            {
+              "label": "Overall",
+              "value": "Good course"
+            }
+          ]
+        },
+        {
+          "source": "hss",
+          "courseCode": "HUL261",
+          "professor": "Varsha singh",
+          "professorKey": "varsha singh",
+          "timestamp": "2024-04-03T00:13:28.108000+00:00",
+          "labels": {
+            "workload": 3.0,
+            "evaluations_hardness": 3.0
+          },
+          "textBlocks": [
+            {
+              "label": "Offering Session",
+              "value": "2023-24"
+            },
+            {
+              "label": "Evaluations used",
+              "value": "Surprise Quizzes, Tutorial Submissions, Subjective Minors and Majors"
+            },
+            {
+              "label": "Course content",
+              "value": "Easy to understand"
+            },
+            {
+              "label": "Content sharing",
+              "value": "Book is enough"
+            },
+            {
+              "label": "Grading",
+              "value": "Not done yet"
+            },
+            {
+              "label": "Tutorials",
+              "value": "Graded Tutorials"
+            },
+            {
+              "label": "Attendance policy",
+              "value": "Strict about 75%"
+            },
+            {
+              "label": "Overall",
+              "value": "Decent"
+            }
+          ]
+        },
+        {
+          "source": "hss",
+          "courseCode": "HUL261",
+          "professor": "Sumitash Jana",
+          "professorKey": "sumitash jana",
+          "timestamp": "2024-04-03T00:16:29.221000+00:00",
+          "labels": {
+            "workload": 3.0,
+            "evaluations_hardness": 2.0
+          },
+          "textBlocks": [
+            {
+              "label": "Offering Session",
+              "value": "2023-24"
+            },
+            {
+              "label": "Evaluations used",
+              "value": "Scheduled Quizzes, MCQ Evaluations in Minor/Major, Tutorial Presentations"
+            },
+            {
+              "label": "Course content",
+              "value": "Medium"
+            },
+            {
+              "label": "Content sharing",
+              "value": "Exam relevant content is shared"
+            },
+            {
+              "label": "Grading",
+              "value": "Easy Nehli/Dassi"
+            },
+            {
+              "label": "Tutorials",
+              "value": "No criteria for attendance was shared, but there are presentations in the tutorial which are graded"
+            },
+            {
+              "label": "Attendance policy",
+              "value": "Strict about 75%"
+            },
+            {
+              "label": "Overall",
+              "value": "Very nice course"
+            }
+          ]
+        },
+        {
+          "source": "hss",
+          "courseCode": "HUL261",
+          "professor": "Sumitash",
+          "professorKey": "sumitash",
+          "timestamp": "2024-04-03T00:46:12.702000+00:00",
+          "labels": {
+            "workload": 2.0,
+            "evaluations_hardness": 3.0
+          },
+          "textBlocks": [
+            {
+              "label": "Offering Session",
+              "value": "2023-24"
+            },
+            {
+              "label": "Evaluations used",
+              "value": "Scheduled Quizzes, MCQ Evaluations in Minor/Major, Tutorial Submissions, Class Participation"
+            },
+            {
+              "label": "Course content",
+              "value": "Easy to understand"
+            },
+            {
+              "label": "Content sharing",
+              "value": "Exam relevant content is not shared, but general content is shared"
+            },
+            {
+              "label": "Grading",
+              "value": "No idea yet"
+            },
+            {
+              "label": "Tutorials",
+              "value": "No attendance"
+            },
+            {
+              "label": "Attendance policy",
+              "value": "Strict about 75%, Above 70%"
+            }
+          ]
+        },
+        {
+          "source": "hss",
+          "courseCode": "HUL261",
+          "professor": "Sumitava Mukherjee",
+          "professorKey": "sumitava mukherjee",
+          "timestamp": "2024-04-03T08:46:03.889000+00:00",
+          "labels": {
+            "workload": 3.0,
+            "evaluations_hardness": 4.0
+          },
+          "textBlocks": [
+            {
+              "label": "Offering Session",
+              "value": "2023-24"
+            },
+            {
+              "label": "Evaluations used",
+              "value": "Scheduled Quizzes, MCQ Evaluations in Minor/Major, Assignments, Subjective Minors and Majors, Chart paper"
+            },
+            {
+              "label": "Course content",
+              "value": "Easy to understand"
+            },
+            {
+              "label": "Content sharing",
+              "value": "Exam relevant content is shared"
+            },
+            {
+              "label": "Grading",
+              "value": "Hard Nehli/Dassi"
+            },
+            {
+              "label": "Tutorials",
+              "value": "Mandatory Attendance"
+            },
+            {
+              "label": "Attendance policy",
+              "value": "Strict about 75%"
+            },
+            {
+              "label": "Overall",
+              "value": "Could not gain much from the course. Course coordinator is not good. Unpredictable grading of assignments. Rote learning a week before exams help in scoring good."
+            }
+          ]
+        },
+        {
+          "source": "hss",
+          "courseCode": "HUL261",
+          "professor": "Sumitash jana",
+          "professorKey": "sumitash jana",
+          "timestamp": "2024-04-03T09:14:28.253000+00:00",
+          "labels": {
+            "workload": 4.0,
+            "evaluations_hardness": 4.0
+          },
+          "textBlocks": [
+            {
+              "label": "Offering Session",
+              "value": "2023-24"
+            },
+            {
+              "label": "Evaluations used",
+              "value": "Scheduled Quizzes, Term Papers, MCQ Evaluations in Minor/Major, Assignments, Tutorial Submissions, Class Participation, Subjective Minors and Majors"
+            },
+            {
+              "label": "Course content",
+              "value": "Hard"
+            },
+            {
+              "label": "Content sharing",
+              "value": "Exam relevant content is shared"
+            },
+            {
+              "label": "Grading",
+              "value": "Hard Nehli/Dassi"
+            },
+            {
+              "label": "Tutorials",
+              "value": "Graded Tutorials"
+            },
+            {
+              "label": "Attendance policy",
+              "value": "Strict about 75%"
+            }
+          ]
+        },
+        {
+          "source": "hss",
+          "courseCode": "HUL261",
+          "professor": "Sumitash Jana",
+          "professorKey": "sumitash jana",
+          "timestamp": "2024-04-03T10:09:10.920000+00:00",
+          "labels": {
+            "workload": 1.0,
+            "evaluations_hardness": 3.0
+          },
+          "textBlocks": [
+            {
+              "label": "Offering Session",
+              "value": "2023-24"
+            },
+            {
+              "label": "Evaluations used",
+              "value": "Scheduled Quizzes, MCQ Evaluations in Minor/Major, Class Participation"
+            },
+            {
+              "label": "Course content",
+              "value": "Easy to understand"
+            },
+            {
+              "label": "Content sharing",
+              "value": "Exam relevant content is shared"
+            },
+            {
+              "label": "Grading",
+              "value": "Easy Nehli/Dassi"
+            },
+            {
+              "label": "Tutorials",
+              "value": "Mandatory Attendance"
+            },
+            {
+              "label": "Attendance policy",
+              "value": "80%+"
+            },
+            {
+              "label": "Overall",
+              "value": "Nice for cg"
+            }
+          ]
+        },
+        {
+          "source": "hss",
+          "courseCode": "HUL261",
+          "professor": "Sumitva Mukherjee",
+          "professorKey": "sumitva mukherjee",
+          "timestamp": "2024-04-03T13:06:55.368000+00:00",
+          "labels": {
+            "workload": 2.0,
+            "evaluations_hardness": 2.0
+          },
+          "textBlocks": [
+            {
+              "label": "Offering Session",
+              "value": "2023-24"
+            },
+            {
+              "label": "Evaluations used",
+              "value": "Scheduled Quizzes, Assignments, Subjective Minors and Majors"
+            },
+            {
+              "label": "Course content",
+              "value": "Easy to understand"
+            },
+            {
+              "label": "Content sharing",
+              "value": "Exam relevant content is shared"
+            },
+            {
+              "label": "Grading",
+              "value": "Easy Nehli/Dassi, Not sure, but probably 10 at 80"
+            },
+            {
+              "label": "Tutorials",
+              "value": "Mandatory Attendance"
+            },
+            {
+              "label": "Overall",
+              "value": "Very chill course, just go through readings before exam, make note of key terms and use them in answers, be elaborate while explaining, prof gives marks pretty easily. 15 marks pretty much free, for just going to CSC for 2 hours and filling surveys. Don't need to pay much attention in class either, readings sufficient."
+            }
+          ]
+        },
+        {
+          "source": "hss",
+          "courseCode": "HUL261",
+          "professor": "Sumitava Mukherjee",
+          "professorKey": "sumitava mukherjee",
+          "timestamp": "2024-04-03T13:51:46.626000+00:00",
+          "labels": {
+            "workload": 3.0,
+            "evaluations_hardness": 4.0
+          },
+          "textBlocks": [
+            {
+              "label": "Offering Session",
+              "value": "2023-24"
+            },
+            {
+              "label": "Evaluations used",
+              "value": "Scheduled Quizzes, Assignments, Subjective Minors and Majors"
+            },
+            {
+              "label": "Course content",
+              "value": "Medium"
+            },
+            {
+              "label": "Content sharing",
+              "value": "Exam relevant content is shared"
+            },
+            {
+              "label": "Grading",
+              "value": "Absolute Criteria for Dassi, Dassi is hard nehli manageable"
+            },
+            {
+              "label": "Tutorials",
+              "value": "Mandatory Attendance"
+            },
+            {
+              "label": "Overall",
+              "value": "If you don't have any strong interest towards any one hul then you should take this"
+            }
+          ]
+        },
+        {
+          "source": "hss",
+          "courseCode": "HUL261",
+          "professor": "Varsha Singh",
+          "professorKey": "varsha singh",
+          "timestamp": "2024-04-03T15:43:11.754000+00:00",
+          "labels": {
+            "workload": 3.0,
+            "evaluations_hardness": 4.0
+          },
+          "textBlocks": [
+            {
+              "label": "Offering Session",
+              "value": "2023-24"
+            },
+            {
+              "label": "Evaluations used",
+              "value": "Surprise Quizzes, Tutorial Submissions, Class Participation, Subjective Minors and Majors"
+            },
+            {
+              "label": "Course content",
+              "value": "Medium"
+            },
+            {
+              "label": "Content sharing",
+              "value": "No course content is shared"
+            },
+            {
+              "label": "Grading",
+              "value": "Hard Nehli/Dassi"
+            },
+            {
+              "label": "Tutorials",
+              "value": "Graded Tutorials"
+            },
+            {
+              "label": "Attendance policy",
+              "value": "Strict about 75%"
+            }
+          ]
+        },
+        {
+          "source": "hss",
+          "courseCode": "HUL261",
+          "professor": "Sumitava Mukherjee",
+          "professorKey": "sumitava mukherjee",
+          "timestamp": "2024-04-06T14:12:27.332000+00:00",
+          "labels": {
+            "workload": 2.0,
+            "evaluations_hardness": 3.0
+          },
+          "textBlocks": [
+            {
+              "label": "Offering Session",
+              "value": "2023-24"
+            },
+            {
+              "label": "Evaluations used",
+              "value": "Assignments, Subjective Minors and Majors, Research Participation (Ez full marks)"
+            },
+            {
+              "label": "Course content",
+              "value": "Medium"
+            },
+            {
+              "label": "Content sharing",
+              "value": "Exam relevant content is shared"
+            },
+            {
+              "label": "Grading",
+              "value": "Relative"
+            },
+            {
+              "label": "Tutorials",
+              "value": "No attendance"
+            },
+            {
+              "label": "Attendance policy",
+              "value": "Chill abt attendence"
+            },
+            {
+              "label": "Overall",
+              "value": "Easy and Interesting course"
+            }
+          ]
+        },
+        {
+          "source": "hss",
+          "courseCode": "HUL261",
+          "professor": "Varsha Singh",
+          "professorKey": "varsha singh",
+          "timestamp": "2024-04-14T14:50:40.699000+00:00",
+          "labels": {
+            "workload": 4.0,
+            "evaluations_hardness": 4.0
+          },
+          "textBlocks": [
+            {
+              "label": "Offering Session",
+              "value": "2023-24"
+            },
+            {
+              "label": "Evaluations used",
+              "value": "Surprise Quizzes, Term Papers, Subjective Minors and Majors"
+            },
+            {
+              "label": "Course content",
+              "value": "Easy to understand, Medium"
+            },
+            {
+              "label": "Content sharing",
+              "value": "Directly from Textbook"
+            },
+            {
+              "label": "Grading",
+              "value": "Absolute Criteria for Dassi"
+            },
+            {
+              "label": "Tutorials",
+              "value": "No attendance"
+            },
+            {
+              "label": "Attendance policy",
+              "value": "Strict about 75%"
+            },
+            {
+              "label": "Overall",
+              "value": "Roll call for attndence, too many suprize quizzes, too much efforts for end term report, would not recommed this course under varsha singh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "HUL275",
+      "title": "ENVIRONMENT; DEVELOPMENT AND SOCIETY",
+      "credits": 4,
+      "slot": "M",
+      "currentInstructor": "VIBHA ARORA",
+      "reviewCount": 5,
+      "overall": {
+        "n": 5,
+        "averages": {
+          "content_rating": 2.75,
+          "workload": 2.2,
+          "grading": 2.75,
+          "attendance_lenient": 2.25,
+          "overall_experience": 3.0,
+          "evaluations_hardness": 3.0
+        },
+        "snippet": "Content (rating): 3.0/5 Workload: 2.0/5 Grading: 4.0/5 Attendance leniency: 1.0/5 Overall: 3.0/5 Attendance in first 5 min, regular surprise quizzes, and grading - absolute. Rest content was moderate, some reading based essay type question in exam."
+      },
+      "byProfessor": [
+        {
+          "professorKey": "vibha arora",
+          "professor": "Vibha Arora",
+          "n": 3,
+          "averages": {
+            "content_rating": 2.5,
+            "workload": 2.33,
+            "grading": 3.0,
+            "attendance_lenient": 3.5,
+            "overall_experience": 2.5,
+            "evaluations_hardness": 3.0
+          },
+          "snippet": "Content (rating): 3.0/5 Workload: 3.0/5 Grading: 3.0/5 Attendance leniency: 3.0/5 Overall: 4.0/5 Absolute grading Received an A at 83 83 was the highest the class score went Very few people got As"
+        },
+        {
+          "professorKey": "naveen thayyil",
+          "professor": "Naveen Thayyil",
+          "n": 2,
+          "averages": {
+            "content_rating": 3.0,
+            "workload": 2.0,
+            "grading": 2.5,
+            "attendance_lenient": 1.0,
+            "overall_experience": 3.5
+          },
+          "snippet": "Content (rating): 3.0/5 Workload: 2.0/5 Grading: 4.0/5 Attendance leniency: 1.0/5 Overall: 3.0/5 Attendance in first 5 min, regular surprise quizzes, and grading - absolute. Rest content was moderate, some reading based essay type question in exam."
+        }
+      ],
+      "reviews": [
+        {
+          "source": "bsw",
+          "courseCode": "HUL275",
+          "professor": "Naveen Thayyil",
+          "professorKey": "naveen thayyil",
+          "timestamp": null,
+          "labels": {
+            "content_rating": 3.0,
+            "workload": 2.0,
+            "grading": 1.0,
+            "attendance_lenient": 1.0,
+            "overall_experience": 4.0
+          },
+          "textBlocks": [
+            {
+              "label": "Comments",
+              "value": "Grading was absolute (A : 80, A- : 72, B : 64, and so on). Attendance 75%+ mandatory to sit for major exams. But there were 3 bonus marks for attendance as well (lec + tut). Class is interactive, major minor mcq based in moodle, subjective surprise quizzes (best 2 out of 5). 25% of course load was a group ppt that took a lot of effort and time. 40% major, 25% minor, 10% surpise quiz. Lots of pdf to read."
+            }
+          ]
+        },
+        {
+          "source": "bsw",
+          "courseCode": "HUL275",
+          "professor": "Naveen Thayyil",
+          "professorKey": "naveen thayyil",
+          "timestamp": "2025-04-22T13:55:44.172000+00:00",
+          "labels": {
+            "content_rating": 3.0,
+            "workload": 2.0,
+            "grading": 4.0,
+            "attendance_lenient": 1.0,
+            "overall_experience": 3.0
+          },
+          "textBlocks": [
+            {
+              "label": "Comments",
+              "value": "Attendance in first 5 min, regular surprise quizzes, and grading - absolute. Rest content was moderate, some reading based essay type question in exam."
+            }
+          ]
+        },
+        {
+          "source": "bsw",
+          "courseCode": "HUL275",
+          "professor": "Vibha Arora",
+          "professorKey": "vibha arora",
+          "timestamp": "2025-04-22T11:09:06.108000+00:00",
+          "labels": {
+            "content_rating": 3.0,
+            "workload": 3.0,
+            "grading": 3.0,
+            "attendance_lenient": 3.0,
+            "overall_experience": 4.0
+          },
+          "textBlocks": [
+            {
+              "label": "Comments",
+              "value": "Absolute grading\nReceived an A at 83\n83 was the highest the class score went\nVery few people got As"
+            }
+          ]
+        },
+        {
+          "source": "bsw",
+          "courseCode": "HUL275",
+          "professor": "Vibha Arora",
+          "professorKey": "vibha arora",
+          "timestamp": "2025-04-21T23:55:43.102000+00:00",
+          "labels": {
+            "content_rating": 2.0,
+            "workload": 2.0,
+            "grading": 3.0,
+            "attendance_lenient": 4.0,
+            "overall_experience": 1.0
+          },
+          "textBlocks": [
+            {
+              "label": "Comments",
+              "value": "Mat lena kabhi , bhot gandi grading plus lectures bhi bhot boring hote h"
+            }
+          ]
+        },
+        {
+          "source": "hss",
+          "courseCode": "HUL275",
+          "professor": "Vibha Arora",
+          "professorKey": "vibha arora",
+          "timestamp": "2024-04-03T00:10:17.237000+00:00",
+          "labels": {
+            "workload": 2.0,
+            "evaluations_hardness": 3.0
+          },
+          "textBlocks": [
+            {
+              "label": "Offering Session",
+              "value": "2022-23"
+            },
+            {
+              "label": "Evaluations used",
+              "value": "Surprise Quizzes, Scheduled Quizzes, Subjective Minors and Majors"
+            },
+            {
+              "label": "Course content",
+              "value": "Easy to understand"
+            },
+            {
+              "label": "Content sharing",
+              "value": "Exam relevant content is shared"
+            },
+            {
+              "label": "Grading",
+              "value": "Hard Nehli/Dassi"
+            },
+            {
+              "label": "Tutorials",
+              "value": "No attendance"
+            },
+            {
+              "label": "Attendance policy",
+              "value": "No Policy is Enforced"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "HUL281",
+      "title": "TECHNOLOGY AND GOVERNANCE",
+      "credits": 4,
+      "slot": "M",
+      "currentInstructor": "NAVEEN THAYYIL KAMALUDDIN",
+      "reviewCount": 0,
+      "overall": {
+        "n": 0,
+        "averages": {},
+        "snippet": ""
+      },
+      "byProfessor": [],
+      "reviews": []
+    },
+    {
+      "code": "HUL315",
+      "title": "ECONOMETRIC METHODS",
+      "credits": 3,
+      "slot": "A",
+      "currentInstructor": "ANKUSH AGRAWAL",
+      "reviewCount": 3,
+      "overall": {
+        "n": 3,
+        "averages": {
+          "content_rating": 4.0,
+          "workload": 3.33,
+          "grading": 5.0,
+          "attendance_lenient": 4.0,
+          "overall_experience": 4.0,
+          "evaluations_hardness": 2.5
+        },
+        "snippet": "Content (rating): 4.0/5 Workload: 3.0/5 Grading: 5.0/5 Attendance leniency: 4.0/5 Overall: 4.0/5 Teaching : Not so good. Grading : Good."
+      },
+      "byProfessor": [
+        {
+          "professorKey": "ankush aggarwal",
+          "professor": "Ankush Aggarwal",
+          "n": 1,
+          "averages": {
+            "content_rating": 4.0,
+            "workload": 3.0,
+            "grading": 5.0,
+            "attendance_lenient": 4.0,
+            "overall_experience": 4.0
+          },
+          "snippet": "Content (rating): 4.0/5 Workload: 3.0/5 Grading: 5.0/5 Attendance leniency: 4.0/5 Overall: 4.0/5 Teaching : Not so good. Grading : Good."
+        },
+        {
+          "professorKey": "sisir debnath",
+          "professor": "Sisir Debnath",
+          "n": 1,
+          "averages": {
+            "workload": 2.0,
+            "evaluations_hardness": 2.0
+          },
+          "snippet": "Workload: 2.0/5 Eval hardness: 2.0/5 2023-24 Surprise Quizzes, Assignments Medium Exam relevant content is shared Easy Nehli/Dassi Strict about 75% Great professor, knows his subject. If you like probability and ML, take this course"
+        },
+        {
+          "professorKey": "sourabh bikas paul",
+          "professor": "Sourabh Bikas Paul",
+          "n": 1,
+          "averages": {
+            "workload": 5.0,
+            "evaluations_hardness": 3.0
+          },
+          "snippet": "Workload: 5.0/5 Eval hardness: 3.0/5 2023-24 Surprise Quizzes, Assignments, Subjective Minors and Majors Hard Exam relevant content is shared Hard Nehli/Dassi Mandatory Attendance 80%+ Tutorial should be done for this course."
+        }
+      ],
+      "reviews": [
+        {
+          "source": "bsw",
+          "courseCode": "HUL315",
+          "professor": "Ankush Aggarwal",
+          "professorKey": "ankush aggarwal",
+          "timestamp": "2025-04-22T02:29:12.241000+00:00",
+          "labels": {
+            "content_rating": 4.0,
+            "workload": 3.0,
+            "grading": 5.0,
+            "attendance_lenient": 4.0,
+            "overall_experience": 4.0
+          },
+          "textBlocks": [
+            {
+              "label": "Comments",
+              "value": "Teaching : Not so good. Grading : Good."
+            }
+          ]
+        },
+        {
+          "source": "hss",
+          "courseCode": "HUL315",
+          "professor": "Sourabh Bikas Paul",
+          "professorKey": "sourabh bikas paul",
+          "timestamp": "2024-04-02T23:53:41.427000+00:00",
+          "labels": {
+            "workload": 5.0,
+            "evaluations_hardness": 3.0
+          },
+          "textBlocks": [
+            {
+              "label": "Offering Session",
+              "value": "2023-24"
+            },
+            {
+              "label": "Evaluations used",
+              "value": "Surprise Quizzes, Assignments, Subjective Minors and Majors"
+            },
+            {
+              "label": "Course content",
+              "value": "Hard"
+            },
+            {
+              "label": "Content sharing",
+              "value": "Exam relevant content is shared"
+            },
+            {
+              "label": "Grading",
+              "value": "Hard Nehli/Dassi"
+            },
+            {
+              "label": "Tutorials",
+              "value": "Mandatory Attendance"
+            },
+            {
+              "label": "Attendance policy",
+              "value": "80%+"
+            },
+            {
+              "label": "Overall",
+              "value": "Tutorial should be done for this course."
+            }
+          ]
+        },
+        {
+          "source": "hss",
+          "courseCode": "HUL315",
+          "professor": "Sisir Debnath",
+          "professorKey": "sisir debnath",
+          "timestamp": "2024-04-02T23:54:22.458000+00:00",
+          "labels": {
+            "workload": 2.0,
+            "evaluations_hardness": 2.0
+          },
+          "textBlocks": [
+            {
+              "label": "Offering Session",
+              "value": "2023-24"
+            },
+            {
+              "label": "Evaluations used",
+              "value": "Surprise Quizzes, Assignments"
+            },
+            {
+              "label": "Course content",
+              "value": "Medium"
+            },
+            {
+              "label": "Content sharing",
+              "value": "Exam relevant content is shared"
+            },
+            {
+              "label": "Grading",
+              "value": "Easy Nehli/Dassi"
+            },
+            {
+              "label": "Attendance policy",
+              "value": "Strict about 75%"
+            },
+            {
+              "label": "Overall",
+              "value": "Great professor, knows his subject. If you like probability and ML, take this course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "HUL320",
+      "title": "SELECTED TOPICS IN ECONOMICS",
+      "credits": 3,
+      "slot": "A",
+      "currentInstructor": "ISHAN ANAND",
+      "reviewCount": 0,
+      "overall": {
+        "n": 0,
+        "averages": {},
+        "snippet": ""
+      },
+      "byProfessor": [],
+      "reviews": []
+    },
+    {
+      "code": "HUL354",
+      "title": "ART AND TECHNOLOGY",
+      "credits": 3,
+      "slot": "A",
+      "currentInstructor": "SANIL V.",
+      "reviewCount": 0,
+      "overall": {
+        "n": 0,
+        "averages": {},
+        "snippet": ""
+      },
+      "byProfessor": [],
+      "reviews": []
+    },
+    {
+      "code": "HUL361",
+      "title": "APPLIED POSITIVE PSYCHOLOGY",
+      "credits": 3,
+      "slot": "A",
+      "currentInstructor": "KAMLESH SINGH",
+      "reviewCount": 1,
+      "overall": {
+        "n": 1,
+        "averages": {
+          "workload": 2.0,
+          "evaluations_hardness": 4.0
+        },
+        "snippet": "Workload: 2.0/5 Eval hardness: 4.0/5 2023-24 Assignments, Subjective Minors and Majors Medium Exam relevant content is shared Hard Nehli/Dassi Strict about 75%"
+      },
+      "byProfessor": [
+        {
+          "professorKey": "kamlesh singh",
+          "professor": "Kamlesh Singh",
+          "n": 1,
+          "averages": {
+            "workload": 2.0,
+            "evaluations_hardness": 4.0
+          },
+          "snippet": "Workload: 2.0/5 Eval hardness: 4.0/5 2023-24 Assignments, Subjective Minors and Majors Medium Exam relevant content is shared Hard Nehli/Dassi Strict about 75%"
+        }
+      ],
+      "reviews": [
+        {
+          "source": "hss",
+          "courseCode": "HUL361",
+          "professor": "Kamlesh Singh",
+          "professorKey": "kamlesh singh",
+          "timestamp": "2024-04-03T00:29:44.492000+00:00",
+          "labels": {
+            "workload": 2.0,
+            "evaluations_hardness": 4.0
+          },
+          "textBlocks": [
+            {
+              "label": "Offering Session",
+              "value": "2023-24"
+            },
+            {
+              "label": "Evaluations used",
+              "value": "Assignments, Subjective Minors and Majors"
+            },
+            {
+              "label": "Course content",
+              "value": "Medium"
+            },
+            {
+              "label": "Content sharing",
+              "value": "Exam relevant content is shared"
+            },
+            {
+              "label": "Grading",
+              "value": "Hard Nehli/Dassi"
+            },
+            {
+              "label": "Attendance policy",
+              "value": "Strict about 75%"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "HUL377",
+      "title": "GENDER, TECHNOLOGY AND SOCIETY",
+      "credits": 3,
+      "slot": "M",
+      "currentInstructor": "RAVINDER KAUR",
+      "reviewCount": 0,
+      "overall": {
+        "n": 0,
+        "averages": {},
+        "snippet": ""
+      },
+      "byProfessor": [],
+      "reviews": []
+    },
+    {
+      "code": "HUL380",
+      "title": "SELECTED TOPICS IN SOCIOLOGY",
+      "credits": 3,
+      "slot": "H",
+      "currentInstructor": "MADHULIKA SONKAR",
+      "reviewCount": 0,
+      "overall": {
+        "n": 0,
+        "averages": {},
+        "snippet": ""
+      },
+      "byProfessor": [],
+      "reviews": []
+    },
+    {
+      "code": "HSL2100",
+      "title": "INTRODUCTION TO ECONOMICS",
+      "credits": 3,
+      "slot": "M",
+      "currentInstructor": "REETIKA SUBHASH KHERA",
+      "reviewCount": 0,
+      "overall": {
+        "n": 0,
+        "averages": {},
+        "snippet": ""
+      },
+      "byProfessor": [],
+      "reviews": []
+    },
+    {
+      "code": "HSL2102",
+      "title": "MACROECONOMICS",
+      "credits": 3,
+      "slot": "M",
+      "currentInstructor": "JAYAN JOSE THOMAS",
+      "reviewCount": 0,
+      "overall": {
+        "n": 0,
+        "averages": {},
+        "snippet": ""
+      },
+      "byProfessor": [],
+      "reviews": []
+    },
+    {
+      "code": "HSL2510",
+      "title": "PHILOSOPHY THROUGH PUZZLES AND PARADOXES",
+      "credits": 3,
+      "slot": "M",
+      "currentInstructor": "DON WALLACE FREEMAN DCRUZ",
+      "reviewCount": 0,
+      "overall": {
+        "n": 0,
+        "averages": {},
+        "snippet": ""
+      },
+      "byProfessor": [],
+      "reviews": []
+    },
+    {
+      "code": "HSL2605",
+      "title": "SOCIOLOGICAL PERSPECTIVES ON ORGANISATIONS",
+      "credits": 3,
+      "slot": "M",
+      "currentInstructor": "MAHUYA BANDYOPADHYAY",
+      "reviewCount": 0,
+      "overall": {
+        "n": 0,
+        "averages": {},
+        "snippet": ""
+      },
+      "byProfessor": [],
+      "reviews": []
+    },
+    {
+      "code": "HSL2710",
+      "title": "WORDS IN THE WORLD",
+      "credits": 3,
+      "slot": "H",
+      "currentInstructor": "ASHWINI J VAIDYA",
+      "reviewCount": 0,
+      "overall": {
+        "n": 0,
+        "averages": {},
+        "snippet": ""
+      },
+      "byProfessor": [],
+      "reviews": []
+    },
+    {
+      "code": "HSL2742",
+      "title": "FUNDAMENTALS OF LANGUAGE SCIENCES",
+      "credits": 3,
+      "slot": "M",
+      "currentInstructor": "PRITHA CHANDRA",
+      "reviewCount": 0,
+      "overall": {
+        "n": 0,
+        "averages": {},
+        "snippet": ""
+      },
+      "byProfessor": [],
+      "reviews": []
+    }
+  ]
+}

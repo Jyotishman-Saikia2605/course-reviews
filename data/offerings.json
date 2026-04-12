@@ -1,0 +1,22 @@
+[
+  { "code": "HUL212", "title": "MICROECONOMICS", "credits": 4, "slot": "M", "currentInstructor": "SISIR DEBNATH" },
+  { "code": "HUL231", "title": "AN INTRODUCTION TO LITERATURE", "credits": 4, "slot": "A", "currentInstructor": "MILIND WAKANKAR" },
+  { "code": "HUL239", "title": "INDIAN FICTION IN ENGLISH", "credits": 4, "slot": "A", "currentInstructor": "DICKENS LEONARD M" },
+  { "code": "HUL242", "title": "FUNDAMENTALS OF LANGUAGE SCIENCES", "credits": 4, "slot": "M", "currentInstructor": "SAHIINII LEMAINA VEIKHO" },
+  { "code": "HUL258", "title": "SOCIAL AND POLITICAL PHILOSOPHY", "credits": 4, "slot": "A", "currentInstructor": "BHARATI PURI" },
+  { "code": "HUL261", "title": "INTRODUCTION TO PSYCHOLOGY", "credits": 4, "slot": "M", "currentInstructor": "YASHPAL ASHOKRAO JOGDAND" },
+  { "code": "HUL275", "title": "ENVIRONMENT; DEVELOPMENT AND SOCIETY", "credits": 4, "slot": "M", "currentInstructor": "VIBHA ARORA" },
+  { "code": "HUL281", "title": "TECHNOLOGY AND GOVERNANCE", "credits": 4, "slot": "M", "currentInstructor": "NAVEEN THAYYIL KAMALUDDIN" },
+  { "code": "HUL315", "title": "ECONOMETRIC METHODS", "credits": 3, "slot": "A", "currentInstructor": "ANKUSH AGRAWAL" },
+  { "code": "HUL320", "title": "SELECTED TOPICS IN ECONOMICS", "credits": 3, "slot": "A", "currentInstructor": "ISHAN ANAND" },
+  { "code": "HUL354", "title": "ART AND TECHNOLOGY", "credits": 3, "slot": "A", "currentInstructor": "SANIL V." },
+  { "code": "HUL361", "title": "APPLIED POSITIVE PSYCHOLOGY", "credits": 3, "slot": "A", "currentInstructor": "KAMLESH SINGH" },
+  { "code": "HUL377", "title": "GENDER, TECHNOLOGY AND SOCIETY", "credits": 3, "slot": "M", "currentInstructor": "RAVINDER KAUR" },
+  { "code": "HUL380", "title": "SELECTED TOPICS IN SOCIOLOGY", "credits": 3, "slot": "H", "currentInstructor": "MADHULIKA SONKAR" },
+  { "code": "HSL2100", "title": "INTRODUCTION TO ECONOMICS", "credits": 3, "slot": "M", "currentInstructor": "REETIKA SUBHASH KHERA" },
+  { "code": "HSL2102", "title": "MACROECONOMICS", "credits": 3, "slot": "M", "currentInstructor": "JAYAN JOSE THOMAS" },
+  { "code": "HSL2510", "title": "PHILOSOPHY THROUGH PUZZLES AND PARADOXES", "credits": 3, "slot": "M", "currentInstructor": "DON WALLACE FREEMAN DCRUZ" },
+  { "code": "HSL2605", "title": "SOCIOLOGICAL PERSPECTIVES ON ORGANISATIONS", "credits": 3, "slot": "M", "currentInstructor": "MAHUYA BANDYOPADHYAY" },
+  { "code": "HSL2710", "title": "WORDS IN THE WORLD", "credits": 3, "slot": "H", "currentInstructor": "ASHWINI J VAIDYA" },
+  { "code": "HSL2742", "title": "FUNDAMENTALS OF LANGUAGE SCIENCES", "credits": 3, "slot": "M", "currentInstructor": "PRITHA CHANDRA" }
+]
