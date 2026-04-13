@@ -9,6 +9,8 @@ export default function App() {
           <Link to="/" className="brand">
             HU course reviews
           </Link>
+          <span className="top-credit">made by Jyotishman Saikia</span>
+          <span className="top-semester">odd semester 2026-27</span>
           <span className="tagline">Unofficial aggregated feedback</span>
         </header>
         <main className="main">
@@ -19,7 +21,6 @@ export default function App() {
             Data comes from past form exports; numeric scales differ slightly between
             sources (see legends on each course page).
           </p>
-          <p className="footer-credit">made by Jyotishman Saikia</p>
         </footer>
       </div>
     </ReviewsProvider>
