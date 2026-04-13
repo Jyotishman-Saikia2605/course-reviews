@@ -33,7 +33,7 @@ export function HomePage() {
 
   return (
     <>
-      <h1 className="page-title">HUL offerings</h1>
+      <h1 className="page-title">Humanities (HU) offerings</h1>
       <p className="page-lead">
         Reviews are aggregated from unofficial form exports. Only courses on the
         current allowlist appear here. Dataset generated{" "}
