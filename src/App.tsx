@@ -7,7 +7,7 @@ export default function App() {
       <div className="layout">
         <header className="topbar">
           <Link to="/" className="brand">
-            HUL course reviews
+            HU course reviews
           </Link>
           <span className="top-credit">made by Jyotishman Saikia</span>
           <span className="top-semester">odd semester 2026-27</span>
