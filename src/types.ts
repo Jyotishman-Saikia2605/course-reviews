@@ -32,6 +32,7 @@ export type Course = {
   slot: string;
   currentInstructor: string;
   reviewCount: number;
+  offeredThisSem: boolean;
   overall: {
     n: number;
     averages: Record<string, number>;

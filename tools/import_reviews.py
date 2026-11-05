@@ -21,6 +21,26 @@ HSS_PATH = DATA / "HSS-Courses-Review-Responses.xlsx"
 
 SNIPPET_MAX = 520
 
+KNOWN_COURSES = {
+    "HUL211": {"title": "INTRODUCTION TO ECONOMICS", "credits": 4},
+    "HUL213": {"title": "MACROECONOMICS", "credits": 4},
+    "HUL214": {"title": "INTERNATIONAL ECONOMICS", "credits": 4},
+    "HUL232": {"title": "MODERN INDIAN FICTION IN TRANSLATION", "credits": 4},
+    "HUL236": {"title": "INTRODUCTION TO DRAMA", "credits": 4},
+    "HUL237": {"title": "CONTEMPORARY FICTION", "credits": 4},
+    "HUL243": {"title": "LANGUAGE AND COMMUNICATION", "credits": 4},
+    "HUL244": {"title": "LANGUAGE SCIENCES", "credits": 4},
+    "HUL251": {"title": "INTRODUCTION TO LOGIC", "credits": 4},
+    "HUL253": {"title": "MORAL LITERACY AND MORAL CHOICES", "credits": 4},
+    "HUL256": {"title": "CRITICAL THINKING", "credits": 4},
+    "HUL265": {"title": "THEORIES OF PERSONALITY", "credits": 4},
+    "HUL271": {"title": "INTRODUCTION TO SOCIOLOGY", "credits": 4},
+    "HUL272": {"title": "INTRODUCTION TO THE SOCIOLOGY OF INDIA", "credits": 4},
+    "HUL286": {"title": "SOCIAL SCIENCE APPROACHES TO DEVELOPMENT", "credits": 4},
+    "HUL332": {"title": "FANTASY LITERATURE", "credits": 3},
+    "HUL340": {"title": "SELECTED TOPICS IN LITERATURE", "credits": 3},
+}
+
 
 def norm_professor(s: str | float | None) -> tuple[str, str]:
     """Return (key, display) for grouping and UI."""
@@ -248,7 +268,7 @@ def strip_internal(reviews: list[dict]) -> list[dict]:
 
 def main():
     offerings = json.loads(OFFERINGS_PATH.read_text(encoding="utf-8"))
-    allowed = {o["code"] for o in offerings}
+    offerings_map = {o["code"]: o for o in offerings}
 
     raw_reviews: list[dict] = []
     dropped = 0
@@ -257,17 +277,11 @@ def main():
         if rev is None:
             dropped += 1
             continue
-        if rev["courseCode"] not in allowed:
-            dropped += 1
-            continue
         raw_reviews.append(rev)
 
     for _, row in load_hss().iterrows():
         rev = row_to_review_hss(row)
         if rev is None:
-            dropped += 1
-            continue
-        if rev["courseCode"] not in allowed:
             dropped += 1
             continue
         raw_reviews.append(rev)
@@ -285,9 +299,11 @@ def main():
     for r in raw_reviews:
         by_course.setdefault(r["courseCode"], []).append(r)
 
+    # All courses: union of current offerings and any course with reviews
+    all_codes = sorted(list(set(offerings_map.keys()) | set(by_course.keys())))
+
     courses_out = []
-    for off in offerings:
-        code = off["code"]
+    for code in all_codes:
         rows = by_course.get(code, [])
         reviews_public = strip_internal(rows)
 
@@ -312,9 +328,30 @@ def main():
             )
         by_prof.sort(key=lambda x: (-x["n"], x["professor"].lower()))
 
+        if code in offerings_map:
+            off = offerings_map[code]
+            meta = {
+                "code": code,
+                "title": off.get("title", code),
+                "credits": off.get("credits", 4),
+                "slot": off.get("slot", "—"),
+                "currentInstructor": off.get("currentInstructor", "—"),
+                "offeredThisSem": True,
+            }
+        else:
+            known = KNOWN_COURSES.get(code, {})
+            meta = {
+                "code": code,
+                "title": known.get("title", f"COURSE {code}"),
+                "credits": known.get("credits", 3 if code.startswith("HUL3") else 4),
+                "slot": "—",
+                "currentInstructor": "—",
+                "offeredThisSem": False,
+            }
+
         courses_out.append(
             {
-                **off,
+                **meta,
                 "reviewCount": len(rows),
                 "overall": {
                     "n": len(rows),
@@ -325,6 +362,9 @@ def main():
                 "reviews": reviews_public,
             }
         )
+
+    # Default sort: courses with reviews first (descending reviewCount), then code
+    courses_out.sort(key=lambda c: (-c["reviewCount"], c["code"]))
 
     PUBLIC_DATA.mkdir(parents=True, exist_ok=True)
     out = {
@@ -342,8 +382,8 @@ def main():
     }
     out_path = PUBLIC_DATA / "reviews.json"
     out_path.write_text(json.dumps(out, ensure_ascii=False, indent=2), encoding="utf-8")
-    print(f"Wrote {out_path} with {len(raw_reviews)} reviews across {len(offerings)} courses.")
-    print(f"Approx. rows skipped (no code / not in offerings): {dropped}")
+    print(f"Wrote {out_path} with {len(raw_reviews)} reviews across {len(courses_out)} courses.")
+    print(f"Dropped or skipped rows: {dropped}")
 
 
 if __name__ == "__main__":

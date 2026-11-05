@@ -79,11 +79,24 @@ export function CoursePage() {
           <span className="mono">{course.code}</span> · {course.title}
         </h1>
         <div className="meta-row">
+          {course.offeredThisSem && course.slot !== "—" ? (
+            <>
+              <span>
+                Slot <span className="pill">{course.slot}</span>
+              </span>
+              <span>{course.credits} credits</span>
+              <span>Current instructor: {course.currentInstructor}</span>
+            </>
+          ) : (
+            <>
+              <span className="pill pill-muted">Past offering</span>
+              <span>{course.credits} credits</span>
+              <span>Current instructor: Not offered this semester</span>
+            </>
+          )}
           <span>
-            Slot <span className="pill">{course.slot}</span>
+            <strong>{course.reviewCount}</strong> review{course.reviewCount === 1 ? "" : "s"}
           </span>
-          <span>{course.credits} credits</span>
-          <span>Current instructor: {course.currentInstructor}</span>
         </div>
       </div>
 
